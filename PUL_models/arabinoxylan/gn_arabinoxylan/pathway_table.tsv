@@ -1,0 +1,14 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+Glyco_hydro_67N	gn_arabinoxylan_metabolism	1	-	GH67	key_enzyme_uq	0	5
+Glyco_hydro_43	gn_arabinoxylan_metabolism	2	-	GH43_1	key_enzyme_uq	1	5
+Glyco_hydro_10	gn_arabinoxylan_metabolism	3	-	GH10	key_enzyme_uq	1	5
+MFS_2	gn_arabinoxylan_metabolism	4	-	sugar_trasnport_protein	transporter	0	5
+SASA	gn_arabinoxylan_metabolism	5	-	carbohydrate_esterase	key_enzyme_uq	1	5
+Glyco_hydro_2_N	gn_arabinoxylan_metabolism	6	-	sugar_binding_domain	key_enzyme	0	5
+SusD-like_3	gn_arabinoxylan_metabolism	7	-	SusDlike3	key_enzyme	0	5
+SusD_RagB	gn_arabinoxylan_metabolism	8	-	SusD_RagB	key_enzyme	0	5
+Plug	gn_arabinoxylan_metabolism	9	-	TonB_plug	transporter	0	5
+TonB_dep_Rec	gn_arabinoxylan_metabolism	10	-	TonB	transporter	0	5
+Reg_prop	gn_arabinoxylan_metabolism	11	+	Cell_signaling	regulator	0	5
+HisKA	gn_arabinoxylan_metabolism	12	+	Cell_signaling	regulator	0	5
+Response_ref	gn_arabinoxylan_metabolism	13	+	Gene_expression_regulator	regulator	0	5

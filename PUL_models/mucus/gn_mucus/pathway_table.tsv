@@ -1,0 +1,12 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+Sigma70_r2	gn_mucin_metabolism	1	+	ECF-sigma	regulator	0	5
+FecR	gn_mucin_metabolism	2	+	anti-sigma	regulator	0	5
+CarbopepD_reg_2	gn_mucin_metabolism	3	+	SusC	key_enzyme	0	5
+TonB_dep_Rec	gn_mucin_metabolism	4	+	TonB	transporter	1	5
+SusD-like	gn_mucin_metabolism	5	+	SusDlike	key_enzyme	1	5
+DUF4849	gn_mucin_metabolism	6	+	GH18	key_enzyme_uq	0	5
+Glyco_hydro_16	gn_mucin_metabolism	7	+	GH16	key_enzyme	0	5
+Glyco_hydro_18	gn_mucin_metabolism	8	+	GH18_chitinase	key_enzyme_uq	1	5
+Glyco_hydro_92	gn_mucin_metabolism	9	+	GH92	key_enzyme_uq	0	5
+Laminin_G_3	gn_mucin_metabolism	10	+	glucanase	key_enzyme_uq	1	5
+HisKA	gn_mucin_metabolism	11	-	HTCS	regulator	0	5

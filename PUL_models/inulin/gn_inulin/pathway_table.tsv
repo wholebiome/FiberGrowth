@@ -1,0 +1,10 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+homemade_GH32	gn_inulin_metabolism	1	+	GH32_Btheta_like	key_enzyme	1	3
+homemade_TonB	gn_inulin_metabolism	2	+	TonB_Bcaccae_like	transporter	0	3
+SusD_RagB	gn_inulin_metabolism	3	+	SusD_RagB	key_enzyme	0	3
+SusD-like	gn_inulin_metabolism	4	+	SusDlike	key_enzyme	0	3
+SusD-like_3	gn_inulin_metabolism	5	+	SusDlike3	key_enzyme	0	3
+Glyco_hydro_32C	gn_inulin_metabolism	6	+	GH32_Pfam	key_enzyme_uq	0	3
+PfkB	gn_inulin_metabolism	7	+	fructokinase	key_enzyme	1	3
+MFS_1	gn_inulin_metabolism	8	+	transporter	transporter	1	3
+SusR	gn_inulin_metabolism	9	+	SusR	regulator	0	3

@@ -1,0 +1,10 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+AraC_binding	gn_laminarin_metabolism	1	-	AraC	regulator	0	3
+Y.Y.Y	gn_laminarin_metabolism	2	-	ligand_binding	regulator	0	3
+CarbopepD_reg_2	gn_laminarin_metabolism	3	-	susD_like	key_enzyme	0	3
+Plug	gn_laminarin_metabolism	4	-	TonB_plug	transporter	1	3
+GDPD	gn_laminarin_metabolism	5	-	GH16_part	key_enzyme_uq	0	3
+Glyco_hydro_16	gn_laminarin_metabolism	6	-	GH16	key_enzyme	1	3
+Glyco_hydro_3	gn_laminarin_metabolism	7	-	GH3	key_enzyme_uq	1	3
+Glyco_hydro_3_C	gn_laminarin_metabolism	8	-	GH3	key_enzyme_uq	0	3
+Fn3-like	gn_laminarin_metabolism	9	-	GH3_part	key_enzyme_uq	0	3

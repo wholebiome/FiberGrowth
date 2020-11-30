@@ -1,0 +1,11 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+Hepar_II_III	gn_heparin_metabolism	1	+	PL15	regulator	1	7
+MFS_1	gn_heparin_metabolism	2	+	galactose_transporter	transporter	0.5	7
+ROK	gn_heparin_metabolism	3	+	repressor	regulator	0	7
+Sulfatase	gn_heparin_metabolism	4	+	sulfatase	key_enzyme_uq	1	7
+Glyco_hydro_88	gn_heparin_metabolism	5	+	GH88	key_enzyme_uq	1	7
+SusD_RagB	gn_heparin_metabolism	6	+	SusD_RagB	key_enzyme	0	7
+Plug	gn_heparin_metabolism	7	+	TonB_plug	transporter	0	7
+TonB_dep_Rec	gn_heparin_metabolism	8	+	TonB	transporter	0.5	7
+Response_reg	gn_heparin_metabolism	9	+	HTCS	regulator	0	7
+Polysacc_lyase	gn_heparin_metabolism	10	-	PL13	key_enzyme_uq	0	7

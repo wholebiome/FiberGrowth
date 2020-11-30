@@ -1,0 +1,122 @@
+---
+title: "FiberGrowth Report"
+date: "`r Sys.Date()`"
+params:
+  input_dir:
+output: 
+  html_document: 
+    toc: no
+    toc_depth: 2
+    toc_float: true
+---
+
+
+```{r, include=F}
+##Load libraries
+library(knitr)
+library(data.table)
+library(ggplot2)
+library(DT)
+library(gggenes)
+library(magrittr)
+library(vroom)
+```
+
+```{r setup, warning=F, include=F, echo=F, message=F}
+#Params
+knitr::opts_chunk$set(cache=F, error=F, echo = F, warning=F, message=F, include=T,fig.width = 10,fig.height = 10)
+
+```
+
+```{r read}
+input_dir <- params$input_dir
+
+files <- list.files(input_dir,'_pulscan.tsv',full.names = T,recursive = F)
+
+if(length(files)>1){
+  pul_tab <- vroom(files,id='path',delim = '\t',progress = F,col_types = 'ccccdccddccddl') %>% 
+    data.table() %>% 
+    .[,path:=NULL] %>% 
+    .[growth == T]
+}else{
+  cat('\n**No growth predicted**\n')
+  knitr::knit_exit()
+}
+
+if(nrow(pul_tab)==0){
+  cat('\n**No growth predicted**\n')
+  knitr::knit_exit()
+}
+
+```
+
+
+# PUL summary
+```{r}
+pul_tab_sum <- pul_tab[,
+                       list(gene_names=paste0('[',paste(gene_name,sep='-',collapse = ']-['),']'),
+                       start=min(start),
+                       end=max(end)),
+                       by=.( fiber, pul_id, contig_id, n_genes)]
+datatable(pul_tab_sum)
+```
+
+# PUL structure
+
+```{r}
+plot_list <- list()
+for(f in unique(pul_tab[,fiber])){
+
+  plot_tab <- pul_tab[ fiber == f] %>%
+    copy() %>% 
+    setnames(c('strand','gene_name','pul_id'),c('direction','gene','molecule')) %>% 
+    .[,direction:=ifelse(direction == "-", -1, +1)]
+  
+  if(length(unique(plot_tab$molecule)) >10){
+
+    clusters_uq <- unique(plot_tab$molecule)
+    clusters_split <- split(clusters_uq, ceiling(seq_along(clusters_uq)/10))
+    for(i in 1:ceiling(length(clusters_split))){
+        plot_list[[paste0(f,' (',i,')')]] <- ggplot(plot_tab[ molecule %in% clusters_split[[i]] ],
+           aes(xmin = start, xmax = end, y = molecule, fill = gene, forward = direction, label = gene)) +
+      geom_gene_arrow(arrowhead_height = unit(3, "mm"), arrowhead_width = unit(1, "mm")) +
+        geom_gene_label(align = "left") +
+        facet_wrap(~molecule, nrow = length(unique(plot_tab$molecule)), scales = "free") +
+        ylab("") +
+        xlab("Genomic coordinates") +
+        ggtitle(paste0(f,' (',i,')')) +
+        theme_genes()
+    }
+  }else{
+  
+    plot_list[[f]] <- ggplot(plot_tab,
+         aes(xmin = start, xmax = end, y = molecule, fill = gene, forward = direction, label = gene)) +
+    geom_gene_arrow(arrowhead_height = unit(3, "mm"), arrowhead_width = unit(1, "mm")) +
+      geom_gene_label(align = "left") +
+      facet_wrap(~molecule, nrow = length(unique(plot_tab$molecule)), scales = "free") +
+      ylab("") + 
+      xlab("Genomic coordinates") +
+      ggtitle(f) +
+      theme_genes()
+  }
+}
+
+```
+
+#### {.tabset}
+```{r, results='asis', echo = FALSE}
+for (i in 1:length(plot_list)) {
+    cat("##### ",names(plot_list)[i],"\n")
+    print(plot_list[[i]])
+    cat('\n\n')
+}
+
+```
+
+
+
+# PUL genes
+```{r}
+datatable(pul_tab)
+```
+

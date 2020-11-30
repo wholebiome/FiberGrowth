@@ -1,0 +1,10 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+HATPase_c	gn_levan_metabolism	1	+	HTCS	transporter	0	5
+PfkB	gn_levan_metabolism	2	+	fructokinase	key_enzyme	1	5
+MFS_1	gn_levan_metabolism	3	+	glucose_transporter	transporter	1	5
+Glyco_hydro_32N	gn_levan_metabolism	4	+	GH32	key_enzyme_uq	1	5
+homemade_GH32	gn_levan_metabolism	5	+	GH32Btheta_like	key_enzyme	1	5
+PCMD	gn_levan_metabolism	6	+	carbohydrate_binding_domain	key_enzyme_uq	0	5
+SusD-like3	gn_levan_metabolism	7	+	SusD	key_enzyme_uq	0	5
+Plug	gn_levan_metabolism	8	+	TonB_plug	transporter	0	5
+levanase_homemade	gn_levan_metabolism	9	+	levanase	key_enzyme_uq	0	5

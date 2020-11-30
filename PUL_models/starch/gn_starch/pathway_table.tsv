@@ -1,0 +1,7 @@
+HmmID	PathwayName	Position	RefStrand	GeneName	GeneClass	Weight	MinSize
+SusF_SusE	gn_starch_metabolism	1	-	SusF_SusE	key_enzyme_uq	0	5
+SusD_RagB	gn_starch_metabolism	2	-	SusD_RagB	key_enzyme	1	5
+TonB_dep_Rec	gn_starch_metabolism	3	-	TonB	transporter	1	5
+Glyco_hydro_97	gn_starch_metabolism	4	-	GH97	key_enzyme_uq	0	5
+Alpha-amylase	gn_starch_metabolism	6	-	GH13	key_enzyme_uq	1	5
+SusR	gn_starch_metabolism	7	+	SusR	regulator	0	5
