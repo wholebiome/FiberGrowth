@@ -55,3 +55,7 @@ Alternatively, FiberGrowth can be run on amino acid sequences in fasta format an
 Rscript FiberGrowthDir/FiberGrowth.R --out=fibergrowth_output --gff=genome.gff --proteins=proteins.faa
 
 ```
+
+## References
+
+Besides custom built protein HMMs, FiberGrowth uses HMMs retrieved from Pfam (http://pfam.xfam.org; [El-Gebali et al., 2019](https://academic.oup.com/nar/article/47/D1/D427/5144153)). The HMMs are part of this repository and can be found in the PUL_models subdirectory.
