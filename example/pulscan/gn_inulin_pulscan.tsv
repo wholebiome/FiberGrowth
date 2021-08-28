@@ -1,0 +1,34 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+inulin	inulin_NC_004663.1_cl10	SusDlike	SusD-like	4	NC_004663.1	NC_004663.1_325	385353	386567	+	Susd and RagB outer membrane lipoprotein	2	1	FALSE
+inulin	inulin_NC_004663.1_cl10	SusDlike	SusD-like	4	NC_004663.1	NC_004663.1_326	386576	386947	+	Susd and RagB outer membrane lipoprotein	2	1	FALSE
+inulin	inulin_NC_004663.1_cl11	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_368	433972	435777	-	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl11	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_370	438957	440732	-	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl112	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_4187	5325965	5328016	+	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl112	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_4190	5330640	5332496	+	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl125	transporter	MFS_1	8	NC_004663.1	NC_004663.1_4492	5772481	5773869	+	Major Facilitator Superfamily	3	2	FALSE
+inulin	inulin_NC_004663.1_cl125	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_4496	5775698	5777209	-	pfkB family carbohydrate kinase	3	2	FALSE
+inulin	inulin_NC_004663.1_cl125	transporter	MFS_1	8	NC_004663.1	NC_004663.1_4498	5778289	5779833	+	Major Facilitator Superfamily	3	2	FALSE
+inulin	inulin_NC_004663.1_cl135	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_4844	6202152	6203495	+	SusD family	2	2	FALSE
+inulin	inulin_NC_004663.1_cl135	transporter	MFS_1	8	NC_004663.1	NC_004663.1_4847	6206999	6208357	+	Major Facilitator Superfamily	2	2	FALSE
+inulin	inulin_NC_004663.1_cl21	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_811	979495	980331	-	pfkB family carbohydrate kinase	2	2	FALSE
+inulin	inulin_NC_004663.1_cl21	transporter	MFS_1	8	NC_004663.1	NC_004663.1_815	984417	985871	+	Major Facilitator Superfamily	2	2	FALSE
+inulin	inulin_NC_004663.1_cl36	transporter	MFS_1	8	NC_004663.1	NC_004663.1_1475	1768127	1769335	+	Major Facilitator Superfamily	2	2	FALSE
+inulin	inulin_NC_004663.1_cl36	SusDlike3	SusD-like_3	5	NC_004663.1	NC_004663.1_1476	1769414	1770895	-	Starch-binding associating with outer membrane	2	2	FALSE
+inulin	inulin_NC_004663.1_cl42	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_1802	2170630	2171517	-	pfkB family carbohydrate kinase	4	4	TRUE
+inulin	inulin_NC_004663.1_cl42	transporter	MFS_1	8	NC_004663.1	NC_004663.1_1803	2171552	2172721	-	Major Facilitator Superfamily	4	4	TRUE
+inulin	inulin_NC_004663.1_cl42	GH32_Btheta_like	homemade_GH32	1	NC_004663.1	NC_004663.1_1804	2173001	2174833	-	-	4	4	TRUE
+inulin	inulin_NC_004663.1_cl42	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_1807	2177962	2179674	-	SusD family	4	4	TRUE
+inulin	inulin_NC_004663.1_cl48	transporter	MFS_1	8	NC_004663.1	NC_004663.1_2162	2643912	2645072	+	Major Facilitator Superfamily	2	2	FALSE
+inulin	inulin_NC_004663.1_cl48	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_2164	2648469	2650397	+	SusD family	2	2	FALSE
+inulin	inulin_NC_004663.1_cl64	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_2863	3478877	3479842	+	pfkB family carbohydrate kinase	3	2	FALSE
+inulin	inulin_NC_004663.1_cl64	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_2864	3479882	3480817	+	pfkB family carbohydrate kinase	3	2	FALSE
+inulin	inulin_NC_004663.1_cl64	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_2866	3484094	3486094	+	SusD family	3	2	FALSE
+inulin	inulin_NC_004663.1_cl65	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_2881	3505930	3507687	+	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl65	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_2883	3510520	3512241	+	SusD family	2	1	FALSE
+inulin	inulin_NC_004663.1_cl76	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_3160	3919317	3920807	-	SusD family	2	2	FALSE
+inulin	inulin_NC_004663.1_cl76	SusR	SusR	9	NC_004663.1	NC_004663.1_3162	3924010	3925662	-	-	2	2	FALSE
+inulin	inulin_NC_004663.1_cl86	fructokinase	PfkB	7	NC_004663.1	NC_004663.1_3391	4243275	4244201	-	pfkB family carbohydrate kinase	3	3	FALSE
+inulin	inulin_NC_004663.1_cl86	SusR	SusR	9	NC_004663.1	NC_004663.1_3395	4246707	4248350	+	-	3	3	FALSE
+inulin	inulin_NC_004663.1_cl86	SusD_RagB	SusD_RagB	3	NC_004663.1	NC_004663.1_3397	4251565	4253100	+	SusD family	3	3	FALSE
+inulin	inulin_NC_004663.1_cl99	transporter	MFS_1	8	NC_004663.1	NC_004663.1_3709	4685018	4686274	+	Major Facilitator Superfamily	2	1	FALSE
+inulin	inulin_NC_004663.1_cl99	transporter	MFS_1	8	NC_004663.1	NC_004663.1_3713	4689624	4690931	-	Major Facilitator Superfamily	2	1	FALSE

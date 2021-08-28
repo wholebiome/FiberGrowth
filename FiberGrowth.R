@@ -30,12 +30,17 @@ Options:
   -h, --help                                Show this.
 '
 
+if(length(commandArgs(trailingOnly = TRUE)) == 0L) {
+  docopt:::help(doc)
+  quit()
+}
+
 arguments <- docopt(doc)
 
 
 in_gff <- arguments$gff
 in_proteins <- arguments$proteins
-out_dir <- path.expand(arguments$out)
+out_dir <- normalizePath(arguments$out)
 gff_attribute_key <- arguments$gffAttributeKey
 gff_feature_name <- arguments$gffFeatureName
 
@@ -162,7 +167,9 @@ puldog <- function(hmmscan_tab,gffFile,pathwayTable,raw_prodigal_format=F, gffAt
     !is.na(Colocation) ,
     Growth := predict_growth_c(
       fiber=gsub('^[gnp]+_|_metabolism$','',PathwayName),
-      GeneName=GeneName
+      geneName=GeneName,
+      minSize=max(MinSize),
+      pathwayTable=pathwayTable
     ),
     by = .(contig_ID, Colocation)]
 
@@ -290,35 +297,66 @@ order_match = function(RefPos, pathwayOrientation, Side = "left"){
   orderMatch[orderMatch!=1L] <- 0
   return(orderMatch)
 }
-predict_growth_c <- function(fiber,GeneName){
+predict_growth_c <- function(fiber,geneName,minSize=0,pathwayTable=NULL){
   
   growth <- F
-  cluster <- GeneName
+  cluster <- geneName
   if (fiber == "inulin"){
-    growth <- any(grepl("GH", cluster)) & any(grepl("fructokinase", cluster)) & any(grepl("transporter", cluster)) & length(GeneName) >= 3
+    growth <- any(grepl("GH", cluster)) & any(grepl("fructokinase", cluster)) & any(grepl("transporter", cluster)) & length(geneName) >= minSize #3
   }  else
     if (fiber == "arabinoxylan"){ 
-      growth <- any(grepl("GH43_1", cluster)) & any(grepl("GH10", cluster)) & any(grepl("carbohydrate_esterase", cluster)) & length(GeneName) >= 5
+      growth <- any(grepl("GH43_1", cluster)) & any(grepl("GH10", cluster)) & any(grepl("carbohydrate_esterase", cluster)) & length(geneName) >= minSize #5
     } else
       if (fiber == "heparin") {
-        growth <- any(grepl("sulfatase", cluster)) & any(grepl("GH88", cluster)) & any(grepl("PL15", cluster)) & (any(grepl('transporter',cluster)) | any(grepl('TonB',cluster)) )  & length(GeneName) >= 7
+        growth <- any(grepl("sulfatase", cluster)) & any(grepl("GH88", cluster)) & any(grepl("PL15", cluster)) & (any(grepl('transporter',cluster)) | any(grepl('TonB',cluster)) )  & length(geneName) >= minSize #7
       } else
         if (fiber == "laminarin") {
-          growth <- any(grepl("^GH16$", cluster)) & any(grepl("^GH3", cluster)) & any(grepl("^TonB", cluster)) & length(GeneName) >= 3
+          growth <- any(grepl("^GH16$", cluster)) & any(grepl("^GH3", cluster)) & any(grepl("^TonB", cluster)) & length(geneName) >= minSize #3
         } else
           if (fiber == "levan"){
-            growth <- any(grepl("^GH32$", cluster)) & any(grepl("GH32Btheta_like", cluster)) & any(grepl("glucose_transporter", cluster)) & any(grepl("fructokinase", cluster)) & length(GeneName) >= 5
+            growth <- any(grepl("^GH32$", cluster)) & any(grepl("GH32Btheta_like", cluster)) & any(grepl("glucose_transporter", cluster)) & any(grepl("fructokinase", cluster)) & length(geneName) >= minSize #5
           } else
             if (fiber == "starch"){
-              growth <- any(grepl("TonB", cluster)) & any(grepl("SusD_RagB", cluster)) & any(grepl("GH13", cluster)) & length(GeneName) >= 5
+              growth <- any(grepl("TonB", cluster)) & any(grepl("SusD_RagB", cluster)) & any(grepl("GH13", cluster)) & length(geneName) >= minSize #5
             }else
               if (fiber == "mucin"){
-                growth <- any(grepl("TonB", cluster)) & any(grepl("SusD", cluster)) & any(grepl("GH18", cluster)) & any(grepl("glucanase", cluster)) & length(GeneName) >= 5
+                growth <- any(grepl("TonB", cluster)) & any(grepl("SusD", cluster)) & any(grepl("GH18", cluster)) & any(grepl("glucanase", cluster)) & length(geneName) >= minSize #5
+              }else{
+                #custom:
+                if(sum(pathwayTable$Weight == 0) == 0){
+                  growth <- (length(geneName) >= minSize)
+                }else{
+                  growth <- (length(geneName) >= minSize && all(pathwayTable[ Weight != 0, GeneName] %in% cluster))
+                }
               }
   
   return(growth)
 }
-
+# modified version of the `read_tblout` function of the `rhmmer` package by Zebulun Arendsee (https://github.com/arendsee/rhmmer)
+#'
+#' @param file hmmscan tblout file.
+#' @return data.table
+read_tblout_quietly <- function(file){
+  col_types <- readr::cols(domain_name = readr::col_character(), domain_accession = readr::col_character(), 
+                           query_name = readr::col_character(), query_accession = readr::col_character(), 
+                           sequence_evalue = readr::col_double(), sequence_score = readr::col_double(), 
+                           sequence_bias = readr::col_double(), best_domain_evalue = readr::col_double(), 
+                           best_domain_score = readr::col_double(), best_domain_bis = readr::col_double(), 
+                           domain_number_exp = readr::col_double(), domain_number_reg = readr::col_integer(), 
+                           domain_number_clu = readr::col_integer(), domain_number_ov = readr::col_integer(), 
+                           domain_number_env = readr::col_integer(), domain_number_dom = readr::col_integer(), 
+                           domain_number_rep = readr::col_integer(), domain_number_inc = readr::col_character(), 
+                           description = readr::col_character())
+  
+  N <- length(col_types$cols)
+  readr::read_lines(file, progress = F) %>% 
+    sub(pattern = sprintf("(%s) *(.*)",paste0(rep("\\S+", N - 1), collapse = " +")), replacement = "\\1\t\\2", perl = TRUE) %>%
+    paste0(collapse = "\n") %>% 
+    readr::read_tsv(col_names = c("X","description"), comment = "#", na = "-",show_col_types = F, progress = F) %>%
+    tidyr::separate(.data$X,head(names(col_types$cols), -1), sep = " +") %>% 
+    readr::type_convert(col_types = col_types) %>% 
+    data.table()
+}
 get_this_path <- function() {
   cmdArgs <- commandArgs(trailingOnly = FALSE)
   needle <- "--file="
@@ -331,9 +369,24 @@ get_this_path <- function() {
     return(normalizePath(sys.frames()[[1]]$ofile))
   }
 }
+exit <- function() {
+  invokeRestart("abort") 
+} 
 
 # Functions
 ##
+
+
+# Check dependencies
+dependencies <- Sys.which(c("prodigal","hmmscan","hmmpress")) %>%
+  data.table(dependency=names(.),path=.)
+
+if(any(dependencies[,path] == '')){
+  cat('ERROR: Missing dependencies: ',paste(dependencies[path == '', dependency],sep='',collapse = ', '),'\n')
+  exit()
+}
+
+
 
 
 # Create output directory:
@@ -362,9 +415,10 @@ if(is.null(arguments$lib)){
 
 
 # List all available fibers in library:
-lib_fibers <- data.table(path=list.dirs(pul_library_path,recursive = T,full.names = T)) %>%
-  .[,PUL_model:=basename(path)] %>%
-  .[grepl('^gp_|^gn_',PUL_model)] %>%
+lib_fibers <- data.table(PUL_table=list.files(pul_library_path,pattern = 'pathway_table.tsv',recursive = T,full.names = T)) %>%
+  .[,PUL_model:=basename(dirname(PUL_table))] %>%
+  .[,PUL_hmm:=paste(dirname(PUL_table),'protein_families.hmm',sep='/')] %>%
+  # .[grepl('^gp_|^gn_',PUL_model)] %>%
   .[,fiber_name:=gsub('^gp_|^gn_','',PUL_model)] %>%
   .[,gram:=apply(.[,.(fiber_name,PUL_model)],1,function(x){gsub(paste0('_',x[1]),'',x[2])})]
 
@@ -376,16 +430,21 @@ if(nrow(lib_fibers) == 0){
 
 for(pul in lib_fibers[,PUL_model]){
 
-  pul_hmm <- paste0(pul_library_path,'/',lib_fibers[PUL_model == pul,fiber_name],'/',lib_fibers[PUL_model == pul,PUL_model],'/protein_families.hmm')
+  pul_hmm <- lib_fibers[PUL_model == pul,PUL_hmm]
   hmmscan_out <- paste0(out_dir,'/hmmscan/',lib_fibers[PUL_model == pul,PUL_model],'_hmmscan.tblout')
-  # system(paste0('source ~/.bash_profile && hmmscan --tblout ', hmmscan_out ,' --cut_ga --cpu ',arguments$threads,' "',
-  #               pul_hmm,'" "',arguments$proteins,'"'))
-  
+
+  ## check hmmpress files, (protein_families.hmm.h3m,...)
+  if(!file.exists(paste0(pul_hmm,'.h3m'))){
+    hmmpress_command <- paste0('hmmpress ',pul_hmm)
+    cat(paste0('File not found: ',pul_hmm,'.h3m','\n >running: ',hmmpress_command,'\n'))
+    system(hmmpress_command)
+  }
+    
   system(paste0('hmmscan --tblout ', hmmscan_out ,' --cut_ga --cpu ',arguments$threads,' "',
                 pul_hmm,'" "',in_proteins,'">/dev/null 2>&1'))
 
   # Read hmmscan result:
-  hmmscan_tab <- read_tblout(hmmscan_out) %>%
+  hmmscan_tab <- read_tblout_quietly(hmmscan_out) %>%
     data.table() %>%
     setnames(old = c('domain_name','query_name'),new=c('hmm_name','gene_id'))
 
@@ -393,7 +452,7 @@ for(pul in lib_fibers[,PUL_model]){
   gff_tab <- read_gff(file = in_gff,calc_hash = T, key=gff_attribute_key,feature_name = gff_feature_name, raw_prodigal_format=raw_prodigal_format)
 
   # Read PUL definition:
-  pathwayTable <- fread(paste0(pul_library_path,'/',lib_fibers[PUL_model == pul,fiber_name],'/',lib_fibers[PUL_model == pul,PUL_model],'/pathway_table.tsv')) %>%
+    pathwayTable <- fread(lib_fibers[PUL_model == pul,PUL_table]) %>%
     setnames(old = c('HmmID'),new = c('hmm_name'))
 
 
@@ -404,7 +463,7 @@ for(pul in lib_fibers[,PUL_model]){
   }
 
 
-  # Run PULFinder:
+  # Run PULDOG:
   pulscan_out <- paste0(out_dir,'/pulscan/',lib_fibers[PUL_model == pul,PUL_model],'_pulscan.tsv')
   pul_tab <- puldog(hmmscan_tab = hmmscan_tab,
                                gffFile = gff_tab,

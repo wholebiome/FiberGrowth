@@ -1,0 +1,2 @@
+contig_id	pul_id	n_genes	growth	genes	start	end
+NC_004663.1	heparin_NC_004663.1_cl217	8	TRUE	[PL15]-[galactose_transporter]-[repressor]-[sulfatase]-[PL15]-[GH88]-[SusD_RagB]-[TonB]	6085860	6102651

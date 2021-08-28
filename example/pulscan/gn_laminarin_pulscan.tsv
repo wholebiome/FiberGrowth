@@ -1,0 +1,31 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+laminarin	laminarin_NC_004663.1_cl11	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_369	435803	438946	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl11	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_371	440745	443828	-	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl112	GH3	Glyco_hydro_3	7	NC_004663.1	NC_004663.1_3660	4616660	4618975	-	Glycosyl hydrolase family 3 N terminal domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl112	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_3662	4620639	4623704	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl131	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_4193	5334073	5337207	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl131	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4195	5339015	5342095	+	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl137	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_4309	5534649	5536781	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl137	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_4310	5536883	5539324	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl14	GH16_part	GDPD	5	NC_004663.1	NC_004663.1_450	536438	538213	+	Glycerophosphoryl diester phosphodiesterase family	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl14	GH3_part	Fn3-like	9	NC_004663.1	NC_004663.1_452	538439	538756	+	Fibronectin type III-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl145	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4578	5870614	5871963	-	CarboxypepD_reg-like domain	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl145	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4583	5875014	5876879	+	CarboxypepD_reg-like domain	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl145	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_4588	5879021	5882161	+	TonB-dependent Receptor Plug Domain	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl148	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4759	6076551	6077807	+	CarboxypepD_reg-like domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl148	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4762	6079264	6080805	+	CarboxypepD_reg-like domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl153	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_4843	6198720	6202139	+	TonB-dependent Receptor Plug Domain	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl153	GH16_part	GDPD	5	NC_004663.1	NC_004663.1_4845	6203517	6206048	+	Glycerophosphoryl diester phosphodiesterase family	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl153	GH16_part	GDPD	5	NC_004663.1	NC_004663.1_4846	6206063	6206983	+	Glycerophosphoryl diester phosphodiesterase family	3	2	FALSE
+laminarin	laminarin_NC_004663.1_cl18	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_510	620545	622872	+	CarboxypepD_reg-like domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl18	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_512	623432	625771	+	CarboxypepD_reg-like domain	2	1	FALSE
+laminarin	laminarin_NC_004663.1_cl46	GH3	Glyco_hydro_3_C	8	NC_004663.1	NC_004663.1_1823	2217682	2220243	-	Glycosyl hydrolase family 3 C-terminal domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl46	GH3	Glyco_hydro_3	7	NC_004663.1	NC_004663.1_1825	2222043	2224907	-	Glycosyl hydrolase family 3 N terminal domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl52	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_2086	2548165	2548386	-	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl52	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_2087	2548741	2551722	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl75	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_2880	3502745	3505918	+	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl75	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_2882	3507717	3510497	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl86	GH3	Glyco_hydro_3_C	8	NC_004663.1	NC_004663.1_3078	3798016	3800607	-	Glycosyl hydrolase family 3 C-terminal domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl86	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3082	3802798	3806184	+	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl98	susD_like	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3319	4130640	4133834	-	CarboxypepD_reg-like domain	2	2	FALSE
+laminarin	laminarin_NC_004663.1_cl98	TonB_plug	Plug	4	NC_004663.1	NC_004663.1_3322	4134274	4137465	+	TonB-dependent Receptor Plug Domain	2	2	FALSE

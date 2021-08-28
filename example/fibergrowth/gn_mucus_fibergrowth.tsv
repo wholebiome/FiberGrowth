@@ -1,0 +1,5 @@
+contig_id	pul_id	n_genes	growth	genes	start	end
+NC_004663.1	mucin_NC_004663.1_cl168	6	TRUE	[ECF-sigma]-[anti-sigma]-[TonB]-[SusDlike]-[GH18]-[glucanase]	4866087	4875193
+NC_004663.1	mucin_NC_004663.1_cl204	6	TRUE	[ECF-sigma]-[anti-sigma]-[TonB]-[SusDlike]-[GH18]-[glucanase]	5798923	5807973
+NC_004663.1	mucin_NC_004663.1_cl212	6	TRUE	[ECF-sigma]-[anti-sigma]-[TonB]-[SusDlike]-[GH18]-[glucanase]	6174951	6184053
+NC_004663.1	mucin_NC_004663.1_cl37	10	TRUE	[TonB]-[SusDlike]-[GH18]-[glucanase]-[TonB]-[SusDlike]-[GH18]-[glucanase]-[anti-sigma]-[ECF-sigma]	1317605	1337010

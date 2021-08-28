@@ -1,0 +1,201 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+mucin	mucin_NC_004663.1_cl103	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_2616	3192720	3194363	-	Susd and RagB outer membrane lipoprotein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl103	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2617	3194382	3197753	-	TonB dependent receptor	4	4	FALSE
+mucin	mucin_NC_004663.1_cl103	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_2618	3197963	3198901	-	FecR protein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl103	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_2619	3199007	3199567	-	Sigma-70 region 2	4	4	FALSE
+mucin	mucin_NC_004663.1_cl107	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2683	3273006	3276110	-	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl107	HTCS	HisKA	11	NC_004663.1	NC_004663.1_2686	3277939	3281976	-	His Kinase A (phospho-acceptor) domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl107	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_2687	3282187	3284469	+	Glycosyl hydrolase family 92	3	3	FALSE
+mucin	mucin_NC_004663.1_cl11	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_324	382145	385333	+	TonB dependent receptor	4	3	FALSE
+mucin	mucin_NC_004663.1_cl11	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_325	385353	386567	+	Susd and RagB outer membrane lipoprotein	4	3	FALSE
+mucin	mucin_NC_004663.1_cl11	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_326	386576	386947	+	Susd and RagB outer membrane lipoprotein	4	3	FALSE
+mucin	mucin_NC_004663.1_cl11	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_333	391486	392007	-	Sigma-70 region 2	4	3	FALSE
+mucin	mucin_NC_004663.1_cl110	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2880	3502745	3505918	+	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl110	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2882	3507717	3510497	+	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl111	GH16	Glyco_hydro_16	7	NC_004663.1	NC_004663.1_2886	3515351	3516469	+	Glycosyl hydrolases family 16	3	3	FALSE
+mucin	mucin_NC_004663.1_cl111	GH18_chitinase	Glyco_hydro_18	8	NC_004663.1	NC_004663.1_2887	3516595	3517638	+	Glycosyl hydrolases family 18	3	3	FALSE
+mucin	mucin_NC_004663.1_cl111	HTCS	HisKA	11	NC_004663.1	NC_004663.1_2888	3518178	3522107	-	His Kinase A (phospho-acceptor) domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl112	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2922	3571213	3574341	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl112	HTCS	HisKA	11	NC_004663.1	NC_004663.1_2923	3574578	3578591	-	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl119	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_3014	3710631	3713324	-	Glycosyl hydrolase family 92	3	3	FALSE
+mucin	mucin_NC_004663.1_cl119	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3016	3714548	3715495	-	Concanavalin A-like lectin/glucanases superfamily	3	3	FALSE
+mucin	mucin_NC_004663.1_cl119	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3018	3717066	3720032	-	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl12	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_369	435803	438946	-	TonB dependent receptor	4	3	FALSE
+mucin	mucin_NC_004663.1_cl12	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_371	440745	443828	-	TonB dependent receptor	4	3	FALSE
+mucin	mucin_NC_004663.1_cl12	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_372	443848	446157	-	Concanavalin A-like lectin/glucanases superfamily	4	3	FALSE
+mucin	mucin_NC_004663.1_cl12	HTCS	HisKA	11	NC_004663.1	NC_004663.1_373	446387	450649	-	His Kinase A (phospho-acceptor) domain	4	3	FALSE
+mucin	mucin_NC_004663.1_cl122	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3080	3801071	3801682	-	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl122	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3081	3801841	3802749	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl122	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3082	3802798	3806184	+	CarboxypepD_reg-like domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl125	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3105	3844119	3846701	+	CarboxypepD_reg-like domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl125	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3106	3846909	3847418	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl125	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3107	3847435	3848475	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl127	HTCS	HisKA	11	NC_004663.1	NC_004663.1_3119	3864475	3868605	+	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl127	GH18_chitinase	Glyco_hydro_18	8	NC_004663.1	NC_004663.1_3120	3868574	3869539	-	Glycosyl hydrolases family 18	2	2	FALSE
+mucin	mucin_NC_004663.1_cl136	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3268	4080302	4080889	+	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl136	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3270	4081559	4082308	-	CarboxypepD_reg-like domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl137	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3319	4130640	4133834	-	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl137	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3322	4134274	4137465	+	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl138	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3353	4174538	4175110	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl138	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3354	4175563	4176834	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl138	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3355	4176879	4180208	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl139	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3361	4189575	4190171	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl139	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3362	4190370	4191554	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl139	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3363	4191588	4195136	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl153	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3606	4541946	4542518	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl153	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3607	4542632	4543834	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl153	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_3608	4543971	4547426	+	CarboxypepD_reg-like domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl154	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3611	4550708	4551868	+	Concanavalin A-like lectin/glucanases superfamily	2	1	FALSE
+mucin	mucin_NC_004663.1_cl154	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3612	4551883	4553358	+	Concanavalin A-like lectin/glucanases superfamily	2	1	FALSE
+mucin	mucin_NC_004663.1_cl168	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_3848	4866087	4866629	+	Sigma-70 region 2	6	6	TRUE
+mucin	mucin_NC_004663.1_cl168	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_3849	4866784	4867752	+	FecR protein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl168	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_3850	4867933	4870533	+	TonB dependent receptor	6	6	TRUE
+mucin	mucin_NC_004663.1_cl168	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_3852	4871280	4872845	+	Susd and RagB outer membrane lipoprotein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl168	GH18	DUF4849	6	NC_004663.1	NC_004663.1_3853	4872869	4873972	+	Putative glycoside hydrolase Family 18, chitinase_18	6	6	TRUE
+mucin	mucin_NC_004663.1_cl168	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3854	4874003	4875193	+	Concanavalin A-like lectin/glucanases superfamily	6	6	TRUE
+mucin	mucin_NC_004663.1_cl17	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_510	620545	622872	+	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl17	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_512	623432	625771	+	TonB dependent receptor	2	1	FALSE
+mucin	mucin_NC_004663.1_cl170	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_3887	4910414	4912696	-	Glycosyl hydrolase family 92	2	2	FALSE
+mucin	mucin_NC_004663.1_cl170	HTCS	HisKA	11	NC_004663.1	NC_004663.1_3888	4912906	4916943	+	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl176	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_3962	5023719	5025980	+	Glycosyl hydrolase family 92	3	2	FALSE
+mucin	mucin_NC_004663.1_cl176	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3964	5028029	5029159	+	Concanavalin A-like lectin/glucanases superfamily	3	2	FALSE
+mucin	mucin_NC_004663.1_cl176	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_3965	5029186	5030328	+	Concanavalin A-like lectin/glucanases superfamily	3	2	FALSE
+mucin	mucin_NC_004663.1_cl180	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4064	5154944	5157229	+	Glycosyl hydrolase family 92	3	1	FALSE
+mucin	mucin_NC_004663.1_cl180	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4065	5157236	5159575	+	Glycosyl hydrolase family 92	3	1	FALSE
+mucin	mucin_NC_004663.1_cl180	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4067	5160446	5162752	+	Glycosyl hydrolase family 92	3	1	FALSE
+mucin	mucin_NC_004663.1_cl182	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4087	5185604	5189011	+	CarboxypepD_reg-like domain	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_4088	5189028	5190641	+	Susd and RagB outer membrane lipoprotein	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	GH18	DUF4849	6	NC_004663.1	NC_004663.1_4089	5190666	5191742	+	Putative glycoside hydrolase Family 18, chitinase_18	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_4090	5191751	5192905	+	Concanavalin A-like lectin/glucanases superfamily	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4094	5196633	5198900	-	Glycosyl hydrolase family 92	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4096	5198998	5201274	-	Glycosyl hydrolase family 92	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4097	5201306	5202301	-	FecR protein	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4098	5202354	5202908	-	Sigma-70 region 2	9	7	FALSE
+mucin	mucin_NC_004663.1_cl182	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4099	5202936	5205167	-	Glycosyl hydrolase family 92	9	7	FALSE
+mucin	mucin_NC_004663.1_cl184	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4160	5283831	5286623	+	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl184	HTCS	HisKA	11	NC_004663.1	NC_004663.1_4162	5288148	5290943	+	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl185	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4175	5303772	5304296	+	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl185	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4178	5307194	5309542	+	Glycosyl hydrolase family 92	2	2	FALSE
+mucin	mucin_NC_004663.1_cl187	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4193	5334073	5337207	+	CarboxypepD_reg-like domain	2	1	FALSE
+mucin	mucin_NC_004663.1_cl187	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4195	5339015	5342095	+	CarboxypepD_reg-like domain	2	1	FALSE
+mucin	mucin_NC_004663.1_cl188	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4197	5344274	5346547	+	Glycosyl hydrolase family 92	2	1	FALSE
+mucin	mucin_NC_004663.1_cl188	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_4198	5346666	5348819	+	Glycosyl hydrolase family 92	2	1	FALSE
+mucin	mucin_NC_004663.1_cl199	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4359	5596039	5599392	-	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl199	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4360	5599443	5600096	-	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl199	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4362	5600726	5601271	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl203	HTCS	HisKA	11	NC_004663.1	NC_004663.1_4468	5737256	5739151	+	His Kinase A (phospho-acceptor) domain	4	4	FALSE
+mucin	mucin_NC_004663.1_cl203	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4469	5739541	5740116	-	Sigma-70 region 2	4	4	FALSE
+mucin	mucin_NC_004663.1_cl203	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4470	5740247	5741275	+	FecR protein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl203	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4471	5741436	5744972	+	TonB dependent receptor	4	4	FALSE
+mucin	mucin_NC_004663.1_cl204	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4515	5798923	5799474	+	Sigma-70 region 2	6	6	TRUE
+mucin	mucin_NC_004663.1_cl204	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4516	5799518	5800507	+	FecR protein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl204	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4518	5800675	5803995	+	TonB dependent receptor	6	6	TRUE
+mucin	mucin_NC_004663.1_cl204	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_4519	5804003	5805631	+	Susd and RagB outer membrane lipoprotein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl204	GH18	DUF4849	6	NC_004663.1	NC_004663.1_4520	5805644	5806801	+	Putative glycoside hydrolase Family 18, chitinase_18	6	6	TRUE
+mucin	mucin_NC_004663.1_cl204	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_4521	5806798	5807973	+	Concanavalin A-like lectin/glucanases superfamily	6	6	TRUE
+mucin	mucin_NC_004663.1_cl205	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4578	5870614	5871963	-	CarboxypepD_reg-like domain	5	4	FALSE
+mucin	mucin_NC_004663.1_cl205	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4579	5871960	5872532	-	Sigma-70 region 2	5	4	FALSE
+mucin	mucin_NC_004663.1_cl205	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4583	5875014	5876879	+	CarboxypepD_reg-like domain	5	4	FALSE
+mucin	mucin_NC_004663.1_cl205	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4588	5879021	5882161	+	TonB dependent receptor	5	4	FALSE
+mucin	mucin_NC_004663.1_cl205	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_4589	5882179	5883774	+	Susd and RagB outer membrane lipoprotein	5	4	FALSE
+mucin	mucin_NC_004663.1_cl207	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4684	5988314	5990746	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl207	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4687	5992436	5992999	-	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl208	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4751	6067146	6070595	-	TonB dependent receptor	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4752	6070725	6071939	-	FecR protein	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4753	6072022	6072615	-	Sigma-70 region 2	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4759	6076551	6077807	+	CarboxypepD_reg-like domain	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4760	6077858	6078409	+	Sigma-70 region 2	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4761	6078406	6079248	+	FecR protein	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_4762	6079264	6080805	+	CarboxypepD_reg-like domain	8	4	FALSE
+mucin	mucin_NC_004663.1_cl208	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4764	6081242	6081778	+	Sigma-70 region 2	8	4	FALSE
+mucin	mucin_NC_004663.1_cl21	HTCS	HisKA	11	NC_004663.1	NC_004663.1_752	906714	908228	-	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl21	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_753	908362	910470	+	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl211	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4788	6123116	6126094	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl211	HTCS	HisKA	11	NC_004663.1	NC_004663.1_4790	6126437	6129985	-	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl212	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4823	6174951	6175520	-	Sigma-70 region 2	6	6	TRUE
+mucin	mucin_NC_004663.1_cl212	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4824	6175745	6176668	+	FecR protein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl212	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4825	6176918	6180217	+	TonB dependent receptor	6	6	TRUE
+mucin	mucin_NC_004663.1_cl212	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_4826	6180242	6181837	+	Susd and RagB outer membrane lipoprotein	6	6	TRUE
+mucin	mucin_NC_004663.1_cl212	GH18	DUF4849	6	NC_004663.1	NC_004663.1_4827	6181880	6182821	+	Putative glycoside hydrolase Family 18, chitinase_18	6	6	TRUE
+mucin	mucin_NC_004663.1_cl212	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_4828	6182845	6184053	+	Concanavalin A-like lectin/glucanases superfamily	6	6	TRUE
+mucin	mucin_NC_004663.1_cl213	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4839	6194917	6195465	+	Sigma-70 region 2	4	3	FALSE
+mucin	mucin_NC_004663.1_cl213	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_4841	6196911	6197498	+	Sigma-70 region 2	4	3	FALSE
+mucin	mucin_NC_004663.1_cl213	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_4842	6197572	6198549	+	FecR protein	4	3	FALSE
+mucin	mucin_NC_004663.1_cl213	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_4843	6198720	6202139	+	TonB dependent receptor	4	3	FALSE
+mucin	mucin_NC_004663.1_cl22	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_771	934484	935071	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl22	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_772	935148	936173	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl22	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_773	936299	939685	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl27	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_996	1179568	1181970	-	CarboxypepD_reg-like domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl27	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_997	1182131	1183105	-	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl27	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_998	1183169	1183720	-	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl3	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_143	139333	139848	+	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl3	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_145	139982	143212	+	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl36	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_1068	1308560	1309774	-	Concanavalin A-like lectin/glucanases superfamily	4	4	FALSE
+mucin	mucin_NC_004663.1_cl36	GH18	DUF4849	6	NC_004663.1	NC_004663.1_1069	1309791	1310813	-	Putative glycoside hydrolase Family 18, chitinase_18	4	4	FALSE
+mucin	mucin_NC_004663.1_cl36	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_1070	1310840	1312423	-	Susd and RagB outer membrane lipoprotein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl36	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1071	1312432	1315194	-	TonB dependent receptor	4	4	FALSE
+mucin	mucin_NC_004663.1_cl37	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1074	1317605	1320898	+	TonB dependent receptor	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_1075	1320919	1322559	+	Susd and RagB outer membrane lipoprotein	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	GH18	DUF4849	6	NC_004663.1	NC_004663.1_1076	1322591	1323685	+	Putative glycoside hydrolase Family 18, chitinase_18	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_1077	1323704	1324885	+	Concanavalin A-like lectin/glucanases superfamily	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1078	1325150	1327897	+	TonB dependent receptor	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_1079	1327916	1329460	+	Susd and RagB outer membrane lipoprotein	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	GH18	DUF4849	6	NC_004663.1	NC_004663.1_1080	1329485	1330612	+	Putative glycoside hydrolase Family 18, chitinase_18	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_1081	1330619	1331800	+	Concanavalin A-like lectin/glucanases superfamily	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_1084	1335246	1336238	-	FecR protein	10	6	TRUE
+mucin	mucin_NC_004663.1_cl37	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1085	1336402	1337010	+	Sigma-70 region 2	10	6	TRUE
+mucin	mucin_NC_004663.1_cl48	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1312	1588730	1589281	+	Sigma-70 region 2	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_1313	1589341	1590327	+	FecR protein	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_1314	1590525	1593857	+	CarboxypepD_reg-like domain	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_1315	1593871	1595466	+	Susd and RagB outer membrane lipoprotein	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	GH18	DUF4849	6	NC_004663.1	NC_004663.1_1316	1595490	1596473	+	Putative glycoside hydrolase Family 18, chitinase_18	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_1317	1596525	1597814	+	Concanavalin A-like lectin/glucanases superfamily	7	7	FALSE
+mucin	mucin_NC_004663.1_cl48	GH18_chitinase	Glyco_hydro_18	8	NC_004663.1	NC_004663.1_1319	1599565	1600485	+	Glycosyl hydrolases family 18	7	7	FALSE
+mucin	mucin_NC_004663.1_cl5	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_195	198238	198840	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl5	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_196	198925	199911	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl5	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_197	200124	203564	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl60	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1607	1933066	1935243	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl60	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1609	1935871	1936374	-	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl61	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1638	1965054	1966979	+	His Kinase A (phospho-acceptor) domain	2	1	FALSE
+mucin	mucin_NC_004663.1_cl61	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1639	1966976	1968943	+	His Kinase A (phospho-acceptor) domain	2	1	FALSE
+mucin	mucin_NC_004663.1_cl62	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1658	1987600	1988163	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl62	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_1659	1988242	1989249	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl62	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1660	1989363	1992815	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl63	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1672	2014035	2017394	-	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl63	GH18_chitinase	Glyco_hydro_18	8	NC_004663.1	NC_004663.1_1673	2017425	2019089	-	Glycosyl hydrolases family 18	3	3	FALSE
+mucin	mucin_NC_004663.1_cl63	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1676	2021666	2025631	+	His Kinase A (phospho-acceptor) domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl66	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_1772	2126087	2126938	-	FecR protein	2	2	FALSE
+mucin	mucin_NC_004663.1_cl66	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1773	2126948	2127538	-	Sigma-70 region 2	2	2	FALSE
+mucin	mucin_NC_004663.1_cl72	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_1818	2202186	2204192	-	Susd and RagB outer membrane lipoprotein	2	2	FALSE
+mucin	mucin_NC_004663.1_cl72	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1819	2204204	2207509	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl73	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1847	2251412	2254261	+	TonB dependent receptor	4	2	FALSE
+mucin	mucin_NC_004663.1_cl73	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1848	2254505	2256355	+	His Kinase A (phospho-acceptor) domain	4	2	FALSE
+mucin	mucin_NC_004663.1_cl73	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1849	2256352	2258313	+	His Kinase A (phospho-acceptor) domain	4	2	FALSE
+mucin	mucin_NC_004663.1_cl73	HTCS	HisKA	11	NC_004663.1	NC_004663.1_1850	2258318	2260375	+	His Kinase A (phospho-acceptor) domain	4	2	FALSE
+mucin	mucin_NC_004663.1_cl76	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_1923	2357378	2360737	-	TonB dependent receptor	4	4	FALSE
+mucin	mucin_NC_004663.1_cl76	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_1924	2361009	2362022	-	FecR protein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl76	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_1925	2362093	2362683	-	Sigma-70 region 2	4	4	FALSE
+mucin	mucin_NC_004663.1_cl76	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_1926	2362810	2365002	-	Glycosyl hydrolase family 92	4	4	FALSE
+mucin	mucin_NC_004663.1_cl79	SusC	CarbopepD_reg_2	3	NC_004663.1	NC_004663.1_2086	2548165	2548386	-	CarboxypepD_reg-like domain	3	3	FALSE
+mucin	mucin_NC_004663.1_cl79	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2087	2548741	2551722	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl79	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_2088	2551744	2553306	+	Susd and RagB outer membrane lipoprotein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl82	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_2161	2640758	2643901	+	Glycosyl hydrolase family 92	2	2	FALSE
+mucin	mucin_NC_004663.1_cl82	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2163	2645282	2648461	+	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl85	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_2227	2729184	2729732	+	Sigma-70 region 2	3	3	FALSE
+mucin	mucin_NC_004663.1_cl85	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_2229	2730326	2731198	+	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl85	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2230	2731204	2733897	+	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl87	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2254	2757331	2760693	-	TonB dependent receptor	4	4	FALSE
+mucin	mucin_NC_004663.1_cl87	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_2255	2760889	2761854	-	FecR protein	4	4	FALSE
+mucin	mucin_NC_004663.1_cl87	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_2256	2762259	2762840	-	Sigma-70 region 2	4	4	FALSE
+mucin	mucin_NC_004663.1_cl87	GH92	Glyco_hydro_92	9	NC_004663.1	NC_004663.1_2257	2762989	2765265	-	Glycosyl hydrolase family 92	4	4	FALSE
+mucin	mucin_NC_004663.1_cl88	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2260	2768949	2771939	-	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl88	glucanase	Laminin_G_3	10	NC_004663.1	NC_004663.1_2261	2771962	2773026	-	Concanavalin A-like lectin/glucanases superfamily	2	2	FALSE
+mucin	mucin_NC_004663.1_cl89	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_2318	2834000	2835460	-	Susd and RagB outer membrane lipoprotein	4	2	FALSE
+mucin	mucin_NC_004663.1_cl89	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2319	2835480	2838380	-	TonB dependent receptor	4	2	FALSE
+mucin	mucin_NC_004663.1_cl89	SusDlike	SusD-like	5	NC_004663.1	NC_004663.1_2322	2840080	2841576	-	Susd and RagB outer membrane lipoprotein	4	2	FALSE
+mucin	mucin_NC_004663.1_cl89	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2323	2841589	2844564	-	TonB dependent receptor	4	2	FALSE
+mucin	mucin_NC_004663.1_cl94	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2449	2977831	2980062	+	TonB dependent receptor	2	2	FALSE
+mucin	mucin_NC_004663.1_cl94	HTCS	HisKA	11	NC_004663.1	NC_004663.1_2450	2980116	2984249	-	His Kinase A (phospho-acceptor) domain	2	2	FALSE
+mucin	mucin_NC_004663.1_cl98	TonB	TonB_dep_Rec	4	NC_004663.1	NC_004663.1_2518	3080348	3083752	-	TonB dependent receptor	3	3	FALSE
+mucin	mucin_NC_004663.1_cl98	anti-sigma	FecR	2	NC_004663.1	NC_004663.1_2519	3083913	3084881	-	FecR protein	3	3	FALSE
+mucin	mucin_NC_004663.1_cl98	ECF-sigma	Sigma70_r2	1	NC_004663.1	NC_004663.1_2520	3084951	3085520	-	Sigma-70 region 2	3	3	FALSE

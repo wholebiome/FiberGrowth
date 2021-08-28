@@ -1,0 +1,71 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+levan	levan_NC_004663.1_cl101	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2449	2977831	2980062	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl101	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_2450	2980116	2984249	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl112	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2683	3273006	3276110	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl112	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_2686	3277939	3281976	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl114	fructokinase	PfkB	2	NC_004663.1	NC_004663.1_2863	3478877	3479842	+	pfkB family carbohydrate kinase	3	2	FALSE
+levan	levan_NC_004663.1_cl114	fructokinase	PfkB	2	NC_004663.1	NC_004663.1_2864	3479882	3480817	+	pfkB family carbohydrate kinase	3	2	FALSE
+levan	levan_NC_004663.1_cl114	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2865	3480830	3484081	+	TonB-dependent Receptor Plug Domain	3	2	FALSE
+levan	levan_NC_004663.1_cl115	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2880	3502745	3505918	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl115	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2882	3507717	3510497	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl118	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2922	3571213	3574341	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl118	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_2923	3574578	3578591	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl119	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2956	3615607	3618681	-	TonB-dependent Receptor Plug Domain	4	3	FALSE
+levan	levan_NC_004663.1_cl119	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_2957	3618732	3619724	-	Glycosyl hydrolases family 32 N-terminal domain	4	3	FALSE
+levan	levan_NC_004663.1_cl119	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_2959	3621614	3625594	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	4	3	FALSE
+levan	levan_NC_004663.1_cl119	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_2960	3626229	3627212	-	Glycosyl hydrolases family 32 N-terminal domain	4	3	FALSE
+levan	levan_NC_004663.1_cl12	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_369	435803	438946	-	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl12	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_371	440745	443828	-	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl142	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_3319	4130640	4133834	-	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl142	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_3322	4134274	4137465	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl158	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_3605	4539777	4541690	+	Glycosyl hydrolases family 32 N-terminal domain	2	2	FALSE
+levan	levan_NC_004663.1_cl158	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_3608	4543971	4547426	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl162	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_3697	4669160	4672312	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl162	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_3699	4673561	4674967	-	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl163	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_3709	4685018	4686274	+	Major Facilitator Superfamily	2	1	FALSE
+levan	levan_NC_004663.1_cl163	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_3713	4689624	4690931	-	Major Facilitator Superfamily	2	1	FALSE
+levan	levan_NC_004663.1_cl172	carbohydrate_binding_domain	PCMD	6	NC_004663.1	NC_004663.1_3841	4858336	4859844	+	Putative carbohydrate metabolism domain	3	1	FALSE
+levan	levan_NC_004663.1_cl172	carbohydrate_binding_domain	PCMD	6	NC_004663.1	NC_004663.1_3842	4860127	4861641	+	Putative carbohydrate metabolism domain	3	1	FALSE
+levan	levan_NC_004663.1_cl172	carbohydrate_binding_domain	PCMD	6	NC_004663.1	NC_004663.1_3844	4862560	4863684	-	Putative carbohydrate metabolism domain	3	1	FALSE
+levan	levan_NC_004663.1_cl185	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4160	5283831	5286623	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl185	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_4162	5288148	5290943	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl187	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4193	5334073	5337207	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl187	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4195	5339015	5342095	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl188	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_4199	5348846	5349979	+	Glycosyl hydrolases family 32 N-terminal domain	2	1	FALSE
+levan	levan_NC_004663.1_cl188	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_4200	5349986	5351524	+	Glycosyl hydrolases family 32 N-terminal domain	2	1	FALSE
+levan	levan_NC_004663.1_cl200	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4309	5534649	5536781	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl200	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4310	5536883	5539324	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl208	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_4468	5737256	5739151	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl208	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4471	5741436	5744972	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl209	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_4492	5772481	5773869	+	Major Facilitator Superfamily	3	2	FALSE
+levan	levan_NC_004663.1_cl209	fructokinase	PfkB	2	NC_004663.1	NC_004663.1_4496	5775698	5777209	-	pfkB family carbohydrate kinase	3	2	FALSE
+levan	levan_NC_004663.1_cl209	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_4498	5778289	5779833	+	Major Facilitator Superfamily	3	2	FALSE
+levan	levan_NC_004663.1_cl219	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_4788	6123116	6126094	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl219	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_4790	6126437	6129985	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl22	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_510	620545	622872	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl22	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_512	623432	625771	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+levan	levan_NC_004663.1_cl32	fructokinase	PfkB	2	NC_004663.1	NC_004663.1_811	979495	980331	-	pfkB family carbohydrate kinase	2	2	FALSE
+levan	levan_NC_004663.1_cl32	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_815	984417	985871	+	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl33	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_839	1009677	1012403	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl33	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_842	1013590	1014978	+	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl38	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_990	1169220	1173209	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl38	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_992	1173791	1175689	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl58	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_1311	1587227	1588543	+	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl58	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_1314	1590525	1593857	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl61	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_1475	1768127	1769335	+	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl61	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_1477	1770909	1774037	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl66	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_1566	1884065	1885357	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	1	FALSE
+levan	levan_NC_004663.1_cl66	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_1569	1888407	1891016	-	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	1	FALSE
+levan	levan_NC_004663.1_cl78	fructokinase	PfkB	2	NC_004663.1	NC_004663.1_1802	2170630	2171517	-	pfkB family carbohydrate kinase	6	5	TRUE
+levan	levan_NC_004663.1_cl78	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_1803	2171552	2172721	-	Major Facilitator Superfamily	6	5	TRUE
+levan	levan_NC_004663.1_cl78	GH32Btheta_like	homemade_GH32	5	NC_004663.1	NC_004663.1_1804	2173001	2174833	-	-	6	5	TRUE
+levan	levan_NC_004663.1_cl78	GH32	Glyco_hydro_32N	4	NC_004663.1	NC_004663.1_1805	2174963	2176534	-	Glycosyl hydrolases family 32 N-terminal domain	6	5	TRUE
+levan	levan_NC_004663.1_cl78	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_1808	2179702	2182815	-	TonB-dependent Receptor Plug Domain	6	5	TRUE
+levan	levan_NC_004663.1_cl78	GH32Btheta_like	homemade_GH32	5	NC_004663.1	NC_004663.1_1810	2184204	2186087	-	-	6	5	TRUE
+levan	levan_NC_004663.1_cl80	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_1847	2251412	2254261	+	TonB-dependent Receptor Plug Domain	3	2	FALSE
+levan	levan_NC_004663.1_cl80	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_1848	2254505	2256355	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	3	2	FALSE
+levan	levan_NC_004663.1_cl80	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_1850	2258318	2260375	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	3	2	FALSE
+levan	levan_NC_004663.1_cl9	HTCS	HATPase_c	1	NC_004663.1	NC_004663.1_275	299864	303976	+	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	2	2	FALSE
+levan	levan_NC_004663.1_cl9	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_276	304251	307184	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+levan	levan_NC_004663.1_cl91	glucose_transporter	MFS_1	3	NC_004663.1	NC_004663.1_2162	2643912	2645072	+	Major Facilitator Superfamily	2	2	FALSE
+levan	levan_NC_004663.1_cl91	TonB_plug	Plug	8	NC_004663.1	NC_004663.1_2163	2645282	2648461	+	TonB-dependent Receptor Plug Domain	2	2	FALSE

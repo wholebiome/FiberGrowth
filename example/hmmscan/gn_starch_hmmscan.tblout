@@ -1,0 +1,233 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+TonB_dep_Rec         PF00593.24 NC_004663.1_31       -            2.7e-30   95.2  56.0   2.7e-30   95.2  56.0   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_32       -            1.7e-45  144.5   0.0   9.6e-45  142.0   0.0   2.0   2   1   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_74       -            1.8e-09   26.2   0.0     2e-09   26.1   0.0   1.1   1   0   0   1   1   1   1 SusD family
+Glyco_hydro_97       PF10566.9  NC_004663.1_136      -            3.2e-62  199.0   1.3   1.3e-61  196.9   1.3   1.9   1   1   0   1   1   1   1 Glycoside hydrolase 97
+TonB_dep_Rec         PF00593.24 NC_004663.1_145      -            8.4e-30   93.6  53.1   8.4e-30   93.6  53.1   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_146      -              8e-46  145.6  14.4   2.4e-45  144.0   6.7   2.2   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_156      -            3.3e-31   98.2  21.8   4.6e-31   97.7  21.8   1.2   1   0   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_197      -            6.7e-35  110.4  71.1   6.2e-33  103.9  71.1   2.3   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_198      -            4.8e-35  110.2   3.3   6.5e-34  106.5   1.3   2.8   1   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_213      -            4.1e-33  104.5  44.9   4.1e-33  104.5  44.9   2.0   2   0   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_214      -            4.3e-20   61.1   0.2   1.5e-19   59.3   0.0   2.0   3   0   0   3   3   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_277      -            5.8e-26   80.4   0.4   1.4e-25   79.1   0.4   1.6   1   1   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_281      -            8.8e-30   92.9   0.9   1.6e-29   92.0   0.2   1.7   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_324      -            3.4e-31   98.2  51.9   3.4e-31   98.2  51.9   2.7   1   1   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_368      -            4.7e-63  202.2  13.0   6.2e-63  201.8  12.3   1.5   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_369      -            1.6e-24   76.1  63.4   1.6e-24   76.1  63.4   2.6   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_370      -            5.7e-54  172.3  10.4   1.1e-53  171.4  10.4   1.5   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_371      -            3.2e-33  104.9  49.3   3.2e-33  104.9  49.3   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_447      -            6.5e-34  107.1  49.9   6.5e-34  107.1  49.9   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_448      -            6.6e-52  165.6   0.3   1.2e-51  164.7   0.3   1.5   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_460      -            4.4e-61  195.7   5.2   4.4e-61  195.7   5.2   1.7   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_461      -            3.1e-33  104.9  66.1   3.1e-33  104.9  66.1   2.3   1   1   2   3   3   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_491      -            6.7e-42  133.5  37.6   1.3e-41  132.5  36.5   1.9   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_492      -            2.3e-25   78.4   3.6   5.7e-25   77.1   3.6   1.7   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_505      -            1.3e-51  165.5  45.1   2.7e-51  164.4  40.5   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_510      -            5.4e-38  120.6  14.4   8.6e-38  119.9  14.4   1.3   1   0   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_512      -            4.5e-40  127.5  10.2   1.2e-39  126.1  10.2   1.6   1   1   0   1   1   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_701      -           1.4e-114  370.8   6.0  2.4e-114  370.0   6.0   1.4   1   0   0   1   1   1   1 Glycoside hydrolase 97
+TonB_dep_Rec         PF00593.24 NC_004663.1_753      -            4.7e-14   41.7  31.6     3e-12   35.7  31.6   2.8   1   1   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_773      -              8e-44  139.8  52.6     8e-44  139.8  52.6   2.4   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_774      -            2.6e-49  157.0   2.1   6.4e-49  155.7   2.1   1.6   1   0   0   1   1   1   1 SusD family
+Alpha-amylase        PF00128.24 NC_004663.1_792      -            3.3e-18   54.9   0.3   3.3e-12   35.2   0.0   2.8   2   1   0   3   3   1   1 Alpha amylase, catalytic domain
+Alpha-amylase        PF00128.24 NC_004663.1_794      -            9.7e-32   99.4   0.0   2.5e-31   98.1   0.0   1.6   1   1   0   1   1   1   1 Alpha amylase, catalytic domain
+SusD_RagB            PF07980.11 NC_004663.1_886      -            2.3e-54  173.6   6.0   4.8e-54  172.6   6.0   1.5   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_887      -            1.1e-33  106.4  49.6   1.1e-33  106.4  49.6   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_992      -            2.6e-47  151.3  16.3   2.6e-47  151.3  16.3   1.8   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1056     -            1.5e-47  151.3   8.1   1.5e-47  151.3   8.1   2.1   2   0   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_1059     -            1.2e-43  138.4   0.0   3.4e-43  136.9   0.0   1.7   1   1   1   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1071     -            5.1e-34  107.5  52.1   5.1e-34  107.5  52.1   2.1   1   1   0   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1074     -            5.9e-29   90.8  61.7   5.9e-29   90.8  61.7   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1078     -            4.7e-29   91.1  56.0   4.7e-29   91.1  56.0   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1126     -            3.3e-30   94.9  21.7   4.1e-30   94.6  21.7   1.1   1   0   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1150     -            1.6e-26   82.2   2.9   4.9e-26   80.6   2.6   2.0   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1151     -            6.6e-44  140.1  36.4   6.6e-44  140.1  36.4   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1457     -            6.9e-31   97.2  19.5   9.1e-31   96.8  19.5   1.2   1   0   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1476     -            7.3e-28   86.6   0.4   7.3e-28   86.6   0.4   1.7   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1477     -            5.3e-33  104.1  55.6   5.3e-33  104.1  55.6   3.1   1   1   2   3   3   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1527     -              3e-38  121.4  36.7   3.7e-38  121.2  35.5   1.5   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1590     -            3.8e-25   78.2  51.2   3.8e-25   78.2  51.2   2.1   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1591     -              6e-25   77.0   4.0     6e-25   77.0   4.0   1.8   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1607     -            1.6e-13   39.9  30.9   1.3e-12   36.9  24.3   3.5   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1660     -            1.7e-42  135.4  60.4   1.7e-42  135.4  60.4   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1661     -            1.9e-47  150.9   4.0   1.9e-47  150.9   4.0   2.4   2   1   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_1671     -            3.8e-57  182.8   0.1   1.1e-56  181.3   0.0   1.7   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1672     -            4.2e-38  121.0  52.3   4.2e-38  121.0  52.3   2.5   1   1   2   3   3   1   1 TonB dependent receptor
+Alpha-amylase        PF00128.24 NC_004663.1_1705     -            1.1e-23   73.0   1.5   1.9e-13   39.3   0.3   3.3   2   1   0   3   3   1   1 Alpha amylase, catalytic domain
+SusD_RagB            PF07980.11 NC_004663.1_1725     -              5e-31   97.0   4.0     5e-31   97.0   4.0   2.4   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1726     -            3.2e-36  114.7  58.5   3.2e-36  114.7  58.5   2.5   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_1807     -            1.7e-43  137.9   2.2   3.4e-43  137.0   2.2   1.5   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1808     -              2e-43  138.5  52.9     2e-43  138.5  52.9   3.1   1   1   0   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1819     -            1.2e-23   73.3  34.0   1.2e-23   73.3  34.0   3.1   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1847     -              5e-43  137.2  30.0     5e-43  137.2  30.0   2.3   1   1   2   3   3   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_1919     -             1e-103  335.1   0.4  1.4e-103  334.7   0.4   1.2   1   0   0   1   1   1   1 Glycoside hydrolase 97
+SusD_RagB            PF07980.11 NC_004663.1_1922     -            5.7e-32  100.1   0.0   1.8e-30   95.2   0.0   2.7   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_1923     -            8.3e-36  113.4  55.3   1.2e-33  106.3  55.2   2.7   1   1   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_1989     -            2.7e-28   88.6  42.0   5.5e-28   87.6  42.0   1.6   1   0   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2087     -            8.8e-20   60.5  51.5   8.8e-20   60.5  51.5   2.4   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2163     -            6.7e-26   80.7  49.4   6.7e-26   80.7  49.4   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2164     -            4.1e-52  166.2   4.8   6.8e-52  165.5   4.8   1.3   1   0   0   1   1   1   1 SusD family
+SusR                 -          NC_004663.1_2217     -           1.4e-105  342.5  41.0  1.6e-104  339.0  41.0   1.9   1   1   0   1   1   1   1 -
+TonB_dep_Rec         PF00593.24 NC_004663.1_2230     -            3.1e-29   91.7  34.3     6e-29   90.8  34.3   1.4   1   0   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2253     -            4.7e-64  205.4   3.9   4.7e-64  205.4   3.9   1.6   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2254     -            4.4e-33  104.4  37.4   4.4e-33  104.4  37.4   2.8   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2259     -            1.8e-48  154.3   5.3   1.8e-48  154.3   5.3   1.5   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2260     -            1.1e-40  129.5  45.0   1.1e-40  129.5  45.0   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2319     -            5.5e-25   77.7  37.9   5.5e-25   77.7  37.9   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2323     -            3.5e-28   88.2  43.1   3.5e-28   88.2  43.1   2.4   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2325     -            2.5e-36  115.1  37.1   2.5e-36  115.1  37.1   1.8   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2326     -            4.4e-24   74.2   0.5   4.4e-24   74.2   0.5   2.3   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2422     -              6e-28   87.5  64.4   3.4e-25   78.4  64.3   3.2   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2423     -            6.6e-47  149.1  12.6   6.6e-47  149.1  12.6   1.7   2   0   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_2425     -            6.4e-27   83.5   2.0     2e-26   81.9   2.0   2.0   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2449     -            1.2e-34  109.6  44.2   1.2e-34  109.6  44.2   2.0   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2452     -            5.3e-31   97.5  46.9   5.3e-31   97.5  46.9   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2453     -            2.1e-59  190.2   3.1   2.1e-59  190.2   3.1   1.9   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2468     -            1.1e-34  109.6  31.6   1.1e-34  109.6  31.6   2.1   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2517     -            2.3e-53  170.3   2.0   2.3e-53  170.3   2.0   1.7   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2518     -            1.3e-28   89.7  69.4     8e-27   83.8  69.5   2.5   1   1   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2585     -            4.1e-28   88.0  44.4   4.1e-28   88.0  44.4   3.0   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2586     -            5.5e-56  179.0   6.9   1.2e-55  177.9   6.9   1.5   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2617     -            8.7e-38  119.9  38.4   8.7e-38  119.9  38.4   2.2   2   1   1   3   3   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_2677     -            2.1e-97  314.4   1.2   2.7e-97  314.0   1.2   1.2   1   0   0   1   1   1   1 Glycoside hydrolase 97
+SusD_RagB            PF07980.11 NC_004663.1_2682     -            5.2e-53  169.2   5.7   7.4e-53  168.7   5.7   1.2   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2683     -            4.3e-29   91.3  54.3   4.3e-29   91.3  54.3   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_2865     -            9.3e-42  133.0  55.7   9.3e-42  133.0  55.7   2.7   2   1   1   3   3   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2866     -            1.3e-33  105.5   8.5   1.3e-33  105.5   8.5   1.6   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2880     -            8.8e-27   83.6  51.4   8.8e-27   83.6  51.4   2.2   1   1   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2881     -            9.7e-43  135.5   3.0   9.7e-43  135.5   3.0   2.0   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2882     -            3.4e-21   65.2  38.8   3.4e-21   65.2  38.8   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2883     -            9.2e-45  142.1   8.6   1.8e-44  141.1   8.6   1.5   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_2921     -            6.5e-57  182.0  13.7   9.2e-57  181.5  13.7   1.2   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2922     -            1.5e-31   99.4  53.7   1.5e-31   99.4  53.7   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2955     -            8.5e-56  178.3   0.3   8.5e-56  178.3   0.3   1.5   2   0   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_2967     -            5.3e-48  152.7  12.0   9.8e-48  151.9  12.0   1.4   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2968     -            4.6e-30   94.5  37.0   4.6e-30   94.5  37.0   2.4   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_2982     -            3.8e-53  169.6  10.6     6e-53  169.0  10.6   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_2983     -            1.3e-25   79.7  53.8   1.3e-25   79.7  53.8   2.2   1   1   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3017     -            8.6e-22   66.7  11.3   8.9e-21   63.4  11.0   2.7   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3018     -            1.2e-40  129.3  71.0   1.2e-40  129.3  71.0   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3033     -            7.5e-49  155.5   3.3   1.1e-48  155.0   3.3   1.2   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3034     -            1.1e-22   70.2  50.2   1.1e-22   70.2  50.2   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3083     -            6.5e-53  168.9   1.8   1.1e-52  168.1   1.8   1.4   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3086     -            3.5e-42  134.4  41.4   1.2e-41  132.7  24.5   3.2   1   1   2   3   3   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3093     -            8.2e-47  149.7  35.3   8.2e-47  149.7  35.3   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3094     -              1e-46  148.5   0.7   1.4e-46  148.1   0.7   1.2   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3115     -            5.3e-59  188.8   4.7   8.7e-59  188.1   4.7   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3116     -            3.1e-30   95.0  64.6   3.1e-30   95.0  64.6   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusF_SusE            PF16411.5  NC_004663.1_3159     -            5.7e-50  158.2  16.0     5e-30   93.6   1.3   3.5   3   1   0   3   3   2   2 Outer membrane protein SusF_SusE
+SusD_RagB            PF07980.11 NC_004663.1_3160     -            4.2e-46  146.5   4.5   5.5e-46  146.1   3.0   2.0   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3161     -            8.5e-51  162.8  46.1   8.5e-51  162.8  46.1   2.4   1   1   1   2   2   1   1 TonB dependent receptor
+SusR                 -          NC_004663.1_3162     -           7.2e-185  604.1  31.0  7.6e-184  600.8  31.0   1.9   1   1   0   1   1   1   1 -
+SusD_RagB            PF07980.11 NC_004663.1_3173     -            4.8e-52  166.0   1.6   7.7e-52  165.3   1.6   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3174     -            1.2e-47  152.5  38.3   1.2e-47  152.5  38.3   2.6   1   1   0   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3232     -            6.2e-26   80.8  50.7   6.2e-26   80.8  50.7   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3233     -            1.1e-45  145.1   6.9   1.8e-45  144.4   6.9   1.4   1   0   0   1   1   1   1 SusD family
+Glyco_hydro_97       PF10566.9  NC_004663.1_3239     -            3.7e-82  264.4   0.5   6.3e-82  263.6   0.5   1.4   1   0   0   1   1   1   1 Glycoside hydrolase 97
+TonB_dep_Rec         PF00593.24 NC_004663.1_3252     -            3.2e-38  121.4  46.1   3.2e-38  121.4  46.1   2.6   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3253     -            4.6e-50  159.5   0.0     8e-50  158.7   0.0   1.3   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3318     -            3.7e-10   28.5   0.2     5e-10   28.1   0.2   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3319     -            1.3e-22   69.9  59.3   3.8e-21   65.1  59.3   2.2   1   1   0   1   1   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3322     -            4.2e-26   81.4  34.5   4.2e-26   81.4  34.5   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3355     -            2.1e-24   75.8  34.4   2.1e-24   75.8  34.4   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3356     -            1.2e-12   36.7   0.8   1.5e-12   36.4   0.1   1.5   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3363     -            9.2e-24   73.7  37.4   9.2e-24   73.7  37.4   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3364     -            1.8e-28   88.6   0.6     3e-28   87.9   0.6   1.4   1   0   0   1   1   1   1 SusD family
+Glyco_hydro_97       PF10566.9  NC_004663.1_3378     -           2.1e-101  327.5   0.1  3.1e-101  327.0   0.1   1.3   1   0   0   1   1   1   1 Glycoside hydrolase 97
+SusD_RagB            PF07980.11 NC_004663.1_3380     -            3.1e-47  150.2  13.1   3.1e-47  150.2  13.1   2.0   1   1   1   2   2   1   1 SusD family
+SusR                 -          NC_004663.1_3395     -           9.5e-117  379.3  32.3  7.3e-115  373.1  32.3   2.0   1   1   0   1   1   1   1 -
+TonB_dep_Rec         PF00593.24 NC_004663.1_3396     -            7.5e-38  120.1  72.5   2.2e-36  115.3  72.4   2.2   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3397     -            1.5e-40  128.3   7.4   8.7e-38  119.2   0.5   2.3   1   1   1   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3416     -            1.5e-53  171.0  12.8   2.3e-53  170.4  12.8   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3417     -            8.5e-31   96.9  68.4   8.5e-31   96.9  68.4   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3430     -            2.1e-47  150.8  11.3   2.1e-47  150.8  11.3   1.6   2   0   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3563     -            6.1e-61  195.2   2.2   6.1e-61  195.2   2.2   2.0   2   1   1   3   3   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3564     -            9.1e-22   67.1  52.7   9.1e-22   67.1  52.7   2.3   1   1   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3573     -              6e-56  178.8   7.7     6e-56  178.8   7.7   2.2   2   1   1   3   3   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3584     -              8e-56  178.4   6.3   1.2e-55  177.9   5.7   1.6   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3594     -            5.8e-22   67.8  55.5   5.8e-22   67.8  55.5   2.5   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3595     -            1.2e-71  230.3   3.1   2.9e-71  229.1   1.7   2.1   1   1   1   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_3609     -            6.9e-48  152.4   6.2   6.9e-48  152.4   6.2   1.7   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3653     -            6.1e-09   24.8  64.0   6.1e-09   24.8  64.0   3.4   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3658     -            2.5e-19   59.0  58.1   3.6e-17   51.9  58.1   2.3   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3661     -            9.4e-41  128.9   0.8   3.3e-40  127.1   0.8   1.9   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3662     -            2.5e-33  105.2  38.0   2.5e-33  105.2  38.0   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3696     -            2.4e-47  150.6   0.7   2.4e-47  150.6   0.7   1.9   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3697     -            3.6e-33  104.7  59.3   3.6e-33  104.7  59.3   3.0   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3726     -            4.7e-38  120.8  46.2     9e-38  119.9  46.2   1.4   1   0   0   1   1   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_3753     -            4.8e-76  244.3   0.0   6.8e-76  243.8   0.0   1.2   1   0   0   1   1   1   1 Glycoside hydrolase 97
+Glyco_hydro_97       PF10566.9  NC_004663.1_3758     -            1.5e-69  223.0   0.3     2e-69  222.6   0.3   1.2   1   0   0   1   1   1   1 Glycoside hydrolase 97
+TonB_dep_Rec         PF00593.24 NC_004663.1_3764     -            9.4e-27   83.5  45.6   9.4e-27   83.5  45.6   2.8   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3765     -            2.1e-64  206.6   8.5   4.5e-64  205.5   8.5   1.6   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3774     -            2.1e-30   95.6  47.9   2.1e-30   95.6  47.9   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3775     -            3.2e-62  199.4   2.8   7.1e-62  198.3   2.8   1.5   1   0   0   1   1   1   1 SusD family
+Alpha-amylase        PF00128.24 NC_004663.1_3791     -            2.3e-75  242.8   2.0   2.5e-44  140.8   0.3   2.4   2   0   0   2   2   2   2 Alpha amylase, catalytic domain
+SusF_SusE            PF16411.5  NC_004663.1_3792     -            3.1e-24   74.8   8.0   2.8e-19   58.7   0.2   2.8   2   1   1   3   3   1   1 Outer membrane protein SusF_SusE
+SusF_SusE            PF16411.5  NC_004663.1_3793     -            4.9e-24   74.2   6.9     1e-23   73.1   6.9   1.5   1   0   0   1   1   1   1 Outer membrane protein SusF_SusE
+SusD_RagB            PF07980.11 NC_004663.1_3794     -              8e-29   89.8   0.3   2.1e-28   88.4   0.3   1.8   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3795     -            2.2e-31   98.8  64.0   2.2e-31   98.8  64.0   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_3796     -             2e-116  376.8   7.3    2e-116  376.8   7.3   1.5   2   0   0   2   2   1   1 Glycoside hydrolase 97
+Alpha-amylase        PF00128.24 NC_004663.1_3797     -              2e-62  200.3   7.2   2.9e-62  199.8   7.2   1.2   1   0   0   1   1   1   1 Alpha amylase, catalytic domain
+SusR                 -          NC_004663.1_3798     -                  0 1080.6  33.7         0 1080.5  33.7   1.0   1   0   0   1   1   1   1 -
+TonB_dep_Rec         PF00593.24 NC_004663.1_3850     -            5.4e-24   74.4  36.2   5.4e-24   74.4  36.2   2.8   1   1   1   3   3   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_3890     -            2.3e-43  138.3  28.7   2.3e-43  138.3  28.7   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3891     -            9.8e-55  174.8  11.8   1.8e-54  174.0  11.8   1.4   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_3958     -            1.9e-28   89.2  73.6   1.6e-27   86.1  59.0   3.1   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_3959     -            1.4e-33  105.4   0.3   2.1e-33  104.8   0.3   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4054     -              2e-19   59.4  50.6     2e-19   59.4  50.6   2.7   1   1   0   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4055     -            9.9e-55  174.8   1.9   9.9e-55  174.8   1.9   1.8   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4060     -            2.6e-27   85.4  45.3   2.6e-27   85.4  45.3   3.1   1   1   1   3   3   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4061     -            9.4e-58  184.7   3.9   1.6e-57  184.0   3.9   1.4   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4087     -            4.1e-22   68.2  47.1   4.1e-22   68.2  47.1   2.9   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4142     -            1.7e-63  203.6   2.3   1.7e-63  203.6   2.3   1.9   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4143     -            3.3e-28   88.3  42.1   3.3e-28   88.3  42.1   2.3   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4160     -              1e-38  123.0  41.3     4e-37  117.7  17.9   2.1   1   1   1   2   2   1   1 TonB dependent receptor
+SusR                 -          NC_004663.1_4174     -            4.2e-96  311.2  38.8   4.7e-96  311.0  38.8   1.0   1   0   0   1   1   1   1 -
+TonB_dep_Rec         PF00593.24 NC_004663.1_4186     -              2e-25   79.2  47.3   1.1e-24   76.7  35.6   3.1   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4187     -              7e-55  175.3   3.1   1.3e-54  174.5   3.1   1.4   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_4190     -            1.5e-59  190.7   0.7   2.3e-59  190.0   0.7   1.3   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_4194     -            7.5e-52  165.4   4.4   7.5e-52  165.4   4.4   2.0   1   1   0   2   2   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_4220     -            8.5e-34  106.1  13.4   2.8e-32  101.1  13.4   2.5   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4221     -            4.4e-40  127.5  81.5   2.1e-36  115.4  44.5   3.1   1   1   2   3   3   2   2 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4230     -              2e-41  131.2   4.2   4.8e-41  129.9   4.2   1.6   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_4242     -            6.2e-47  149.2   8.3   9.7e-47  148.6   8.3   1.3   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4243     -            1.9e-38  122.1  38.3   1.9e-38  122.1  38.3   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4273     -            5.1e-36  114.1  42.7   5.1e-36  114.1  42.7   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4274     -            1.9e-47  150.9   3.6   5.5e-47  149.4   3.6   2.0   1   1   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4277     -            8.1e-25   77.2  59.0   8.1e-25   77.2  59.0   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4358     -              5e-54  172.5   0.2   1.1e-53  171.4   0.2   1.5   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4359     -            3.4e-35  111.4  52.8   3.4e-35  111.4  52.8   2.2   1   1   0   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4380     -            3.6e-27   84.9  47.4   3.6e-27   84.9  47.4   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4381     -            1.5e-45  144.7   0.2   2.9e-45  143.7   0.2   1.4   1   0   0   1   1   1   1 SusD family
+SusD_RagB            PF07980.11 NC_004663.1_4411     -              6e-48  152.6   2.5     6e-48  152.6   2.5   1.9   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4412     -            7.2e-28   87.2  48.7   7.2e-28   87.2  48.7   2.8   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4471     -            4.1e-47  150.7  61.8   4.1e-47  150.7  61.8   3.0   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4472     -            9.2e-41  129.0   3.7   9.2e-41  129.0   3.7   2.2   2   1   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4518     -            4.7e-28   87.8  48.4   4.7e-28   87.8  48.4   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4588     -            2.1e-31   98.9  18.0   2.1e-31   98.9  18.0   1.9   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4684     -            8.3e-21   63.9  27.4   9.6e-21   63.7  24.2   2.0   1   1   1   2   2   1   1 TonB dependent receptor
+Glyco_hydro_97       PF10566.9  NC_004663.1_4697     -           2.1e-116  376.7   4.3  2.6e-116  376.4   3.3   1.6   2   0   0   2   2   1   1 Glycoside hydrolase 97
+SusD_RagB            PF07980.11 NC_004663.1_4750     -            7.4e-58  185.1   5.6   7.4e-58  185.1   5.6   1.6   2   0   0   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4751     -            8.1e-29   90.3  36.3   8.1e-29   90.3  36.3   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4776     -            3.9e-38  120.4   6.8   8.2e-38  119.3   6.8   1.6   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4777     -            2.9e-40  128.1  52.2   2.9e-40  128.1  52.2   2.7   1   1   1   2   2   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4787     -            1.9e-32  101.7   0.1     4e-31   97.3   0.1   2.2   1   1   1   2   2   1   1 SusD family
+TonB_dep_Rec         PF00593.24 NC_004663.1_4788     -            1.2e-40  129.3  59.0   1.2e-40  129.3  59.0   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+Alpha-amylase        PF00128.24 NC_004663.1_4807     -            4.1e-23   71.1   1.8   5.2e-15   44.4   0.3   3.3   2   1   1   3   3   1   1 Alpha amylase, catalytic domain
+Alpha-amylase        PF00128.24 NC_004663.1_4808     -            3.7e-36  113.9   7.2   8.4e-36  112.8   7.2   1.5   1   1   0   1   1   1   1 Alpha amylase, catalytic domain
+TonB_dep_Rec         PF00593.24 NC_004663.1_4825     -            2.8e-30   95.2  42.7   2.8e-30   95.2  42.7   2.2   1   1   1   2   2   1   1 TonB dependent receptor
+TonB_dep_Rec         PF00593.24 NC_004663.1_4843     -            5.9e-37  117.2  46.5   1.9e-36  115.5  45.9   2.2   1   1   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.11 NC_004663.1_4844     -            1.4e-22   69.3   3.0   3.1e-21   64.8   3.0   2.3   1   1   0   1   1   1   1 SusD family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      example/prodigal/GCF_000011065.1_ASM1106v1_genomic.fna_prot.faa
+# Target file:     /Users/christian/Workspace/FiberGrowth/PUL_models/starch/gn_starch/protein_families.hmm
+# Option settings: hmmscan --tblout example/hmmscan/gn_starch_hmmscan.tblout --cut_ga --cpu 1 /Users/christian/Workspace/FiberGrowth/PUL_models/starch/gn_starch/protein_families.hmm example/prodigal/GCF_000011065.1_ASM1106v1_genomic.fna_prot.faa 
+# Current dir:     /Users/christian/Workspace/FiberGrowth
+# Date:            Mon Aug 23 19:24:33 2021
+# [ok]

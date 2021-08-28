@@ -1,0 +1,162 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+starch	starch_NC_004663.1_cl1	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_31	22906	26169	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl1	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_32	26182	28011	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl100	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3764	4759381	4762488	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl100	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3765	4762513	4764588	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl101	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3774	4780042	4783143	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl101	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3775	4783156	4785171	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl102	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_3791	4800873	4802951	-	Alpha amylase, catalytic domain	8	6	TRUE
+starch	starch_NC_004663.1_cl102	SusF_SusE	SusF_SusE	1	NC_004663.1	NC_004663.1_3792	4803061	4804518	-	Outer membrane protein SusF_SusE	8	6	TRUE
+starch	starch_NC_004663.1_cl102	SusF_SusE	SusF_SusE	1	NC_004663.1	NC_004663.1_3793	4804544	4805707	-	Outer membrane protein SusF_SusE	8	6	TRUE
+starch	starch_NC_004663.1_cl102	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3794	4805742	4807397	-	SusD family	8	6	TRUE
+starch	starch_NC_004663.1_cl102	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3795	4807419	4810430	-	TonB dependent receptor	8	6	TRUE
+starch	starch_NC_004663.1_cl102	GH97	Glyco_hydro_97	4	NC_004663.1	NC_004663.1_3796	4810585	4812801	-	Glycoside hydrolase 97	8	6	TRUE
+starch	starch_NC_004663.1_cl102	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_3797	4812998	4814851	-	Alpha amylase, catalytic domain	8	6	TRUE
+starch	starch_NC_004663.1_cl102	SusR	SusR	7	NC_004663.1	NC_004663.1_3798	4815095	4816693	+	-	8	6	TRUE
+starch	starch_NC_004663.1_cl104	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3890	4918843	4921944	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl104	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3891	4921964	4923943	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl105	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3958	5015957	5019088	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl105	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3959	5019100	5021031	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl106	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4054	5132450	5135593	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl106	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4055	5135615	5137549	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl107	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4060	5146676	5149828	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl107	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4061	5149853	5151817	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl109	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4142	5248793	5250634	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl109	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4143	5250659	5253760	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl11	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_368	433972	435777	-	SusD family	4	2	FALSE
+starch	starch_NC_004663.1_cl11	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_369	435803	438946	-	TonB dependent receptor	4	2	FALSE
+starch	starch_NC_004663.1_cl11	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_370	438957	440732	-	SusD family	4	2	FALSE
+starch	starch_NC_004663.1_cl11	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_371	440745	443828	-	TonB dependent receptor	4	2	FALSE
+starch	starch_NC_004663.1_cl112	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4186	5322832	5325933	+	TonB dependent receptor	3	2	FALSE
+starch	starch_NC_004663.1_cl112	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4187	5325965	5328016	+	SusD family	3	2	FALSE
+starch	starch_NC_004663.1_cl112	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4190	5330640	5332496	+	SusD family	3	2	FALSE
+starch	starch_NC_004663.1_cl114	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4220	5382882	5384741	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl114	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4221	5384754	5387969	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl116	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4242	5421598	5423520	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl116	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4243	5423531	5426746	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl117	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4273	5474559	5477825	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl117	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4274	5477865	5479424	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl119	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4358	5594092	5596020	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl119	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4359	5596039	5599392	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl12	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_447	530005	533124	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl12	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_448	533139	535022	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl120	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4380	5619664	5622783	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl120	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4381	5622805	5624856	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl121	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4411	5660608	5662659	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl121	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4412	5662678	5665767	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl122	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4471	5741436	5744972	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl122	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4472	5745007	5746893	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl127	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4750	6065247	6067130	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl127	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4751	6067146	6070595	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl128	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4776	6097817	6099490	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl128	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4777	6099508	6102651	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl129	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4787	6121491	6123065	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl129	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4788	6123116	6126094	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl13	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_460	550603	552264	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl13	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_461	552283	555507	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl130	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_4807	6150497	6152464	-	Alpha amylase, catalytic domain	2	1	FALSE
+starch	starch_NC_004663.1_cl130	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_4808	6152762	6154207	+	Alpha amylase, catalytic domain	2	1	FALSE
+starch	starch_NC_004663.1_cl132	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_4843	6198720	6202139	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl132	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_4844	6202152	6203495	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl14	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_491	595675	598419	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl14	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_492	598438	600171	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl16	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_510	620545	622872	+	TonB dependent receptor	2	1	FALSE
+starch	starch_NC_004663.1_cl16	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_512	623432	625771	+	TonB dependent receptor	2	1	FALSE
+starch	starch_NC_004663.1_cl19	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_773	936299	939685	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl19	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_774	939715	941520	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl20	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_792	960466	962478	+	Alpha amylase, catalytic domain	2	1	FALSE
+starch	starch_NC_004663.1_cl20	GH13	Alpha-amylase	6	NC_004663.1	NC_004663.1_794	963212	964909	-	Alpha amylase, catalytic domain	2	1	FALSE
+starch	starch_NC_004663.1_cl21	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_886	1063214	1065088	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl21	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_887	1065133	1068345	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl29	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1150	1403968	1405584	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl29	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1151	1405597	1408293	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl31	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1476	1769414	1770895	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl31	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1477	1770909	1774037	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl33	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1590	1916828	1920118	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl33	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1591	1920158	1921462	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl35	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1660	1989363	1992815	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl35	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1661	1992829	1994685	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl36	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1671	2012204	2014021	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl36	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1672	2014035	2017394	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl38	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1725	2073899	2075854	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl38	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1726	2075866	2079060	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl39	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1807	2177962	2179674	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl39	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1808	2179702	2182815	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl4	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_145	139982	143212	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl4	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_146	143223	144962	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl43	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_1922	2355408	2357366	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl43	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_1923	2357378	2360737	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl46	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2163	2645282	2648461	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl46	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2164	2648469	2650397	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl49	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2253	2755560	2757302	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl49	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2254	2757331	2760693	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl50	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2259	2767291	2768934	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl50	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2260	2768949	2771939	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl53	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2325	2847074	2850154	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl53	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2326	2850174	2851583	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl54	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2422	2942417	2945503	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl54	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2423	2945516	2947354	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl57	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2452	2985949	2989032	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl57	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2453	2989045	2991024	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl59	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2517	3078618	3080336	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl59	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2518	3080348	3083752	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl6	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_197	200124	203564	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl6	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_198	203588	204979	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl60	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2585	3162750	3165878	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl60	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2586	3165906	3167933	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl63	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2682	3271013	3272995	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl63	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2683	3273006	3276110	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl64	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2865	3480830	3484081	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl64	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2866	3484094	3486094	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl65	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2880	3502745	3505918	+	TonB dependent receptor	4	2	FALSE
+starch	starch_NC_004663.1_cl65	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2881	3505930	3507687	+	SusD family	4	2	FALSE
+starch	starch_NC_004663.1_cl65	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2882	3507717	3510497	+	TonB dependent receptor	4	2	FALSE
+starch	starch_NC_004663.1_cl65	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2883	3510520	3512241	+	SusD family	4	2	FALSE
+starch	starch_NC_004663.1_cl66	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2921	3569259	3571199	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl66	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2922	3571213	3574341	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl68	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2967	3634096	3636018	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl68	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2968	3636030	3639233	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl69	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_2982	3660858	3662780	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl69	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_2983	3662793	3665987	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl7	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_213	222704	225646	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl7	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_214	225665	227200	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl70	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3017	3715522	3717060	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl70	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3018	3717066	3720032	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl71	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3033	3738692	3740638	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl71	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3034	3740650	3743808	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl74	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3093	3824416	3827481	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl74	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3094	3827521	3829146	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl75	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3115	3854807	3856789	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl75	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3116	3856829	3859924	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl76	SusF_SusE	SusF_SusE	1	NC_004663.1	NC_004663.1_3159	3917766	3919283	-	Outer membrane protein SusF_SusE	4	4	FALSE
+starch	starch_NC_004663.1_cl76	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3160	3919317	3920807	-	SusD family	4	4	FALSE
+starch	starch_NC_004663.1_cl76	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3161	3920823	3923822	-	TonB dependent receptor	4	4	FALSE
+starch	starch_NC_004663.1_cl76	SusR	SusR	7	NC_004663.1	NC_004663.1_3162	3924010	3925662	-	-	4	4	FALSE
+starch	starch_NC_004663.1_cl77	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3173	3943289	3944989	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl77	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3174	3945008	3948193	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl78	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3232	4020827	4023988	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl78	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3233	4024000	4026015	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl80	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3252	4054449	4057769	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl80	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3253	4057819	4059651	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl81	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3318	4129062	4130621	-	SusD family	3	2	FALSE
+starch	starch_NC_004663.1_cl81	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3319	4130640	4133834	-	TonB dependent receptor	3	2	FALSE
+starch	starch_NC_004663.1_cl81	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3322	4134274	4137465	+	TonB dependent receptor	3	2	FALSE
+starch	starch_NC_004663.1_cl82	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3355	4176879	4180208	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl82	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3356	4180231	4181688	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl83	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3363	4191588	4195136	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl83	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3364	4195149	4196612	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl84	GH97	Glyco_hydro_97	4	NC_004663.1	NC_004663.1_3378	4219281	4221233	-	Glycoside hydrolase 97	2	2	FALSE
+starch	starch_NC_004663.1_cl84	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3380	4222532	4224556	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl85	SusR	SusR	7	NC_004663.1	NC_004663.1_3395	4246707	4248350	+	-	3	3	FALSE
+starch	starch_NC_004663.1_cl85	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3396	4248560	4251565	+	TonB dependent receptor	3	3	FALSE
+starch	starch_NC_004663.1_cl85	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3397	4251565	4253100	+	SusD family	3	3	FALSE
+starch	starch_NC_004663.1_cl86	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3416	4282742	4284460	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl86	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3417	4284501	4287698	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl88	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3563	4473346	4475391	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl88	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3564	4475408	4478527	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl91	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3594	4519745	4522867	+	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl91	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3595	4522883	4525000	+	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl95	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3661	4619006	4620535	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl95	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3662	4620639	4623704	-	TonB dependent receptor	2	2	FALSE
+starch	starch_NC_004663.1_cl96	SusD_RagB	SusD_RagB	2	NC_004663.1	NC_004663.1_3696	4667460	4669145	-	SusD family	2	2	FALSE
+starch	starch_NC_004663.1_cl96	TonB	TonB_dep_Rec	3	NC_004663.1	NC_004663.1_3697	4669160	4672312	-	TonB dependent receptor	2	2	FALSE

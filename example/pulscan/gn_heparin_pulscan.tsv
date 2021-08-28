@@ -1,0 +1,263 @@
+fiber	pul_id	gene_name	hmm_name	position	contig_id	gene_id	start	end	strand	description	n_genes	n_unique_genes	growth
+heparin	heparin_NC_004663.1_cl1	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_14	10857	13316	+	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl1	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_15	13288	14586	+	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl10	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_213	222704	225646	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl10	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_214	225665	227200	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl100	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2253	2755560	2757302	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl100	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2254	2757331	2760693	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl101	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2259	2767291	2768934	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl101	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2260	2768949	2771939	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl104	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2325	2847074	2850154	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl104	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2326	2850174	2851583	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl105	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2422	2942417	2945503	+	TonB dependent receptor	4	3	FALSE
+heparin	heparin_NC_004663.1_cl105	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2423	2945516	2947354	+	SusD family	4	3	FALSE
+heparin	heparin_NC_004663.1_cl105	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_2424	2947596	2950673	+	TonB-dependent Receptor Plug Domain	4	3	FALSE
+heparin	heparin_NC_004663.1_cl105	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2425	2950707	2952200	+	SusD family	4	3	FALSE
+heparin	heparin_NC_004663.1_cl106	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2449	2977831	2980062	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl106	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2450	2980116	2984249	-	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl107	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2452	2985949	2989032	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl107	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2453	2989045	2991024	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl110	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2517	3078618	3080336	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl110	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2518	3080348	3083752	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl112	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2585	3162750	3165878	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl112	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2586	3165906	3167933	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl115	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2675	3258569	3259849	-	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl115	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2676	3259854	3262226	-	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl116	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_2680	3268467	3270020	-	Glycosyl Hydrolase Family 88	4	4	FALSE
+heparin	heparin_NC_004663.1_cl116	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2682	3271013	3272995	-	SusD family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl116	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2683	3273006	3276110	-	TonB dependent receptor	4	4	FALSE
+heparin	heparin_NC_004663.1_cl116	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2686	3277939	3281976	-	Response regulator receiver domain	4	4	FALSE
+heparin	heparin_NC_004663.1_cl118	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2865	3480830	3484081	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl118	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2866	3484094	3486094	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl119	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2880	3502745	3505918	+	TonB dependent receptor	4	2	FALSE
+heparin	heparin_NC_004663.1_cl119	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2881	3505930	3507687	+	SusD family	4	2	FALSE
+heparin	heparin_NC_004663.1_cl119	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2882	3507717	3510497	+	TonB dependent receptor	4	2	FALSE
+heparin	heparin_NC_004663.1_cl119	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2883	3510520	3512241	+	SusD family	4	2	FALSE
+heparin	heparin_NC_004663.1_cl12	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_275	299864	303976	+	Response regulator receiver domain	5	3	FALSE
+heparin	heparin_NC_004663.1_cl12	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_276	304251	307184	+	TonB-dependent Receptor Plug Domain	5	3	FALSE
+heparin	heparin_NC_004663.1_cl12	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_277	307218	308756	+	SusD family	5	3	FALSE
+heparin	heparin_NC_004663.1_cl12	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_280	310606	313776	+	TonB-dependent Receptor Plug Domain	5	3	FALSE
+heparin	heparin_NC_004663.1_cl12	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_281	313801	315312	+	SusD family	5	3	FALSE
+heparin	heparin_NC_004663.1_cl121	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2921	3569259	3571199	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl121	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2922	3571213	3574341	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl121	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2923	3574578	3578591	-	Response regulator receiver domain	3	3	FALSE
+heparin	heparin_NC_004663.1_cl122	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2955	3613724	3615598	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl122	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_2956	3615607	3618681	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl124	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2967	3634096	3636018	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl124	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2968	3636030	3639233	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl125	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_2976	3653945	3655153	-	Glycosyl Hydrolase Family 88	2	2	FALSE
+heparin	heparin_NC_004663.1_cl125	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_2977	3655177	3656598	-	Sulfatase	2	2	FALSE
+heparin	heparin_NC_004663.1_cl126	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2982	3660858	3662780	-	SusD family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl126	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2983	3662793	3665987	-	TonB dependent receptor	4	4	FALSE
+heparin	heparin_NC_004663.1_cl126	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_2984	3666005	3667087	-	Glycosyl Hydrolase Family 88	4	4	FALSE
+heparin	heparin_NC_004663.1_cl126	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_2986	3669244	3673260	-	Response regulator receiver domain	4	4	FALSE
+heparin	heparin_NC_004663.1_cl127	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_3015	3713336	3714526	-	Glycosyl Hydrolase Family 88	3	3	FALSE
+heparin	heparin_NC_004663.1_cl127	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3017	3715522	3717060	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl127	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3018	3717066	3720032	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl129	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3033	3738692	3740638	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl129	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3034	3740650	3743808	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl131	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3082	3802798	3806184	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl131	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3083	3806197	3808131	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl133	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3092	3822979	3823896	+	Sulfatase	3	3	FALSE
+heparin	heparin_NC_004663.1_cl133	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3093	3824416	3827481	+	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl133	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3094	3827521	3829146	+	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl134	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3115	3854807	3856789	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl134	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3116	3856829	3859924	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl138	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3160	3919317	3920807	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl138	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3161	3920823	3923822	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl139	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3164	3928001	3929668	-	Sulfatase	3	2	FALSE
+heparin	heparin_NC_004663.1_cl139	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3166	3930901	3932451	-	Sulfatase	3	2	FALSE
+heparin	heparin_NC_004663.1_cl139	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3168	3934641	3938750	+	Response regulator receiver domain	3	2	FALSE
+heparin	heparin_NC_004663.1_cl14	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_368	433972	435777	-	SusD family	4	2	FALSE
+heparin	heparin_NC_004663.1_cl14	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_369	435803	438946	-	TonB dependent receptor	4	2	FALSE
+heparin	heparin_NC_004663.1_cl14	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_370	438957	440732	-	SusD family	4	2	FALSE
+heparin	heparin_NC_004663.1_cl14	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_371	440745	443828	-	TonB dependent receptor	4	2	FALSE
+heparin	heparin_NC_004663.1_cl140	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3172	3941875	3943242	-	Sulfatase	3	3	FALSE
+heparin	heparin_NC_004663.1_cl140	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3173	3943289	3944989	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl140	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3174	3945008	3948193	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl141	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3177	3950514	3952166	-	Sulfatase	3	1	FALSE
+heparin	heparin_NC_004663.1_cl141	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3178	3952176	3953795	-	Sulfatase	3	1	FALSE
+heparin	heparin_NC_004663.1_cl141	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3180	3955003	3956529	-	Sulfatase	3	1	FALSE
+heparin	heparin_NC_004663.1_cl144	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3232	4020827	4023988	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl144	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3233	4024000	4026015	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl146	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3252	4054449	4057769	+	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl146	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3253	4057819	4059651	+	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl146	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3255	4061633	4063201	+	Sulfatase	3	3	FALSE
+heparin	heparin_NC_004663.1_cl147	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3318	4129062	4130621	-	SusD family	3	2	FALSE
+heparin	heparin_NC_004663.1_cl147	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3319	4130640	4133834	-	TonB dependent receptor	3	2	FALSE
+heparin	heparin_NC_004663.1_cl147	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3322	4134274	4137465	+	TonB dependent receptor	3	2	FALSE
+heparin	heparin_NC_004663.1_cl149	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3355	4176879	4180208	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl149	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3356	4180231	4181688	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl150	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3363	4191588	4195136	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl150	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3364	4195149	4196612	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl151	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3380	4222532	4224556	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl151	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3381	4224567	4227647	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl152	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_3385	4233887	4235074	-	Glycosyl Hydrolase Family 88	2	2	FALSE
+heparin	heparin_NC_004663.1_cl152	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3387	4235444	4239544	+	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl153	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3396	4248560	4251565	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl153	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3397	4251565	4253100	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl154	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3416	4282742	4284460	-	SusD family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl154	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3417	4284501	4287698	-	TonB dependent receptor	4	4	FALSE
+heparin	heparin_NC_004663.1_cl154	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3418	4287822	4289357	-	Sulfatase	4	4	FALSE
+heparin	heparin_NC_004663.1_cl154	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3419	4289657	4293721	-	Response regulator receiver domain	4	4	FALSE
+heparin	heparin_NC_004663.1_cl155	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3430	4309072	4311111	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl155	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3431	4311134	4314217	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl156	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_3433	4316255	4317457	+	Glycosyl Hydrolase Family 88	2	2	FALSE
+heparin	heparin_NC_004663.1_cl156	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3434	4317564	4319090	+	Sulfatase	2	2	FALSE
+heparin	heparin_NC_004663.1_cl158	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3563	4473346	4475391	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl158	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3564	4475408	4478527	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl159	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3572	4488562	4491702	+	TonB-dependent Receptor Plug Domain	6	3	FALSE
+heparin	heparin_NC_004663.1_cl159	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3573	4491719	4493767	+	SusD family	6	3	FALSE
+heparin	heparin_NC_004663.1_cl159	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3575	4495044	4496405	+	Sulfatase	6	3	FALSE
+heparin	heparin_NC_004663.1_cl159	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3576	4496417	4498102	+	Sulfatase	6	3	FALSE
+heparin	heparin_NC_004663.1_cl159	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3577	4498131	4499702	+	Sulfatase	6	3	FALSE
+heparin	heparin_NC_004663.1_cl159	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3578	4499717	4501093	+	Sulfatase	6	3	FALSE
+heparin	heparin_NC_004663.1_cl160	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3582	4505137	4505928	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl160	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3584	4508275	4510341	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl161	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3594	4519745	4522867	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl161	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3595	4522883	4525000	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl162	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_3608	4543971	4547426	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl162	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3609	4547439	4549367	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl165	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3661	4619006	4620535	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl165	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3662	4620639	4623704	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl167	repressor	ROK	3	NC_004663.1	NC_004663.1_3693	4663497	4664393	-	ROK family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl167	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3696	4667460	4669145	-	SusD family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl167	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3697	4669160	4672312	-	TonB dependent receptor	4	4	FALSE
+heparin	heparin_NC_004663.1_cl167	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_3699	4673561	4674967	-	Major Facilitator Superfamily	4	4	FALSE
+heparin	heparin_NC_004663.1_cl168	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_3709	4685018	4686274	+	Major Facilitator Superfamily	2	1	FALSE
+heparin	heparin_NC_004663.1_cl168	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_3713	4689624	4690931	-	Major Facilitator Superfamily	2	1	FALSE
+heparin	heparin_NC_004663.1_cl17	repressor	ROK	3	NC_004663.1	NC_004663.1_441	520419	521627	-	ROK family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl17	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_444	524995	526401	+	Major Facilitator Superfamily	2	2	FALSE
+heparin	heparin_NC_004663.1_cl170	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3764	4759381	4762488	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl170	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3765	4762513	4764588	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl172	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3774	4780042	4783143	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl172	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3775	4783156	4785171	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl174	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3794	4805742	4807397	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl174	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3795	4807419	4810430	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl177	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_3885	4908210	4909373	-	Glycosyl Hydrolase Family 88	2	2	FALSE
+heparin	heparin_NC_004663.1_cl177	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3888	4912906	4916943	+	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl178	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3890	4918843	4921944	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl178	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3891	4921964	4923943	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl18	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_447	530005	533124	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl18	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_448	533139	535022	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl180	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_3902	4937104	4938573	-	Sulfatase	3	2	FALSE
+heparin	heparin_NC_004663.1_cl180	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3903	4938807	4942907	+	Response regulator receiver domain	3	2	FALSE
+heparin	heparin_NC_004663.1_cl180	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_3904	4942909	4944282	-	Response regulator receiver domain	3	2	FALSE
+heparin	heparin_NC_004663.1_cl182	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_3958	5015957	5019088	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl182	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_3959	5019100	5021031	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl183	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4054	5132450	5135593	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl183	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4055	5135615	5137549	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl184	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4060	5146676	5149828	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl184	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4061	5149853	5151817	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl187	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4142	5248793	5250634	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl187	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4143	5250659	5253760	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl189	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4186	5322832	5325933	+	TonB dependent receptor	6	3	FALSE
+heparin	heparin_NC_004663.1_cl189	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4187	5325965	5328016	+	SusD family	6	3	FALSE
+heparin	heparin_NC_004663.1_cl189	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4190	5330640	5332496	+	SusD family	6	3	FALSE
+heparin	heparin_NC_004663.1_cl189	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_4193	5334073	5337207	+	TonB-dependent Receptor Plug Domain	6	3	FALSE
+heparin	heparin_NC_004663.1_cl189	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4194	5337214	5339010	+	SusD family	6	3	FALSE
+heparin	heparin_NC_004663.1_cl189	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_4195	5339015	5342095	+	TonB-dependent Receptor Plug Domain	6	3	FALSE
+heparin	heparin_NC_004663.1_cl19	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_460	550603	552264	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl19	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_461	552283	555507	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl190	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_4210	5367284	5368801	-	Major Facilitator Superfamily	3	3	FALSE
+heparin	heparin_NC_004663.1_cl190	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_4214	5371714	5372913	+	Glycosyl Hydrolase Family 88	3	3	FALSE
+heparin	heparin_NC_004663.1_cl190	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_4217	5375840	5380345	+	Response regulator receiver domain	3	3	FALSE
+heparin	heparin_NC_004663.1_cl191	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4220	5382882	5384741	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl191	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4221	5384754	5387969	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl192	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_4229	5397029	5400436	+	TonB-dependent Receptor Plug Domain	3	3	FALSE
+heparin	heparin_NC_004663.1_cl192	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4230	5400451	5402526	+	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl192	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_4232	5404636	5408988	-	Response regulator receiver domain	3	3	FALSE
+heparin	heparin_NC_004663.1_cl193	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4242	5421598	5423520	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl193	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4243	5423531	5426746	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl195	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4273	5474559	5477825	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl195	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4274	5477865	5479424	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl197	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_4284	5495430	5496590	-	Glycosyl Hydrolase Family 88	3	2	FALSE
+heparin	heparin_NC_004663.1_cl197	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_4286	5498702	5500099	+	Glycosyl Hydrolase Family 88	3	2	FALSE
+heparin	heparin_NC_004663.1_cl197	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_4288	5500587	5504888	+	Response regulator receiver domain	3	2	FALSE
+heparin	heparin_NC_004663.1_cl199	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_4309	5534649	5536781	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl199	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_4310	5536883	5539324	+	TonB-dependent Receptor Plug Domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl2	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_31	22906	26169	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl2	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_32	26182	28011	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl20	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_491	595675	598419	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl20	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_492	598438	600171	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl201	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4358	5594092	5596020	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl201	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4359	5596039	5599392	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl202	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4380	5619664	5622783	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl202	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4381	5622805	5624856	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl203	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4411	5660608	5662659	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl203	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4412	5662678	5665767	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl207	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4471	5741436	5744972	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl207	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4472	5745007	5746893	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl215	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_4682	5986543	5987247	-	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl215	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4684	5988314	5990746	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl216	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_4748	6062271	6063830	-	Sulfatase	3	3	FALSE
+heparin	heparin_NC_004663.1_cl216	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4750	6065247	6067130	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl216	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4751	6067146	6070595	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl217	PL15	Hepar_II_III	1	NC_004663.1	NC_004663.1_4769	6085860	6088481	-	Heparinase II/III-like protein	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_4770	6088483	6089748	-	Major Facilitator Superfamily	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	repressor	ROK	3	NC_004663.1	NC_004663.1_4771	6089786	6090739	-	ROK family	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_4773	6092550	6094160	-	Sulfatase	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	PL15	Hepar_II_III	1	NC_004663.1	NC_004663.1_4774	6094272	6096272	-	Heparinase II/III-like protein	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_4775	6096328	6097632	-	Glycosyl Hydrolase Family 88	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4776	6097817	6099490	-	SusD family	8	7	TRUE
+heparin	heparin_NC_004663.1_cl217	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4777	6099508	6102651	-	TonB dependent receptor	8	7	TRUE
+heparin	heparin_NC_004663.1_cl218	PL15	Hepar_II_III	1	NC_004663.1	NC_004663.1_4779	6104875	6106983	-	Heparinase II/III-like protein	2	2	FALSE
+heparin	heparin_NC_004663.1_cl218	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_4780	6107409	6111470	-	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl219	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4787	6121491	6123065	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl219	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4788	6123116	6126094	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl22	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_510	620545	622872	+	TonB dependent receptor	2	1	FALSE
+heparin	heparin_NC_004663.1_cl22	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_512	623432	625771	+	TonB dependent receptor	2	1	FALSE
+heparin	heparin_NC_004663.1_cl223	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_4843	6198720	6202139	+	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl223	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_4844	6202152	6203495	+	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl223	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_4847	6206999	6208357	+	Major Facilitator Superfamily	3	3	FALSE
+heparin	heparin_NC_004663.1_cl28	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_751	906006	906701	-	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl28	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_753	908362	910470	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl29	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_769	932218	932946	+	Response regulator receiver domain	4	4	FALSE
+heparin	heparin_NC_004663.1_cl29	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_773	936299	939685	+	TonB dependent receptor	4	4	FALSE
+heparin	heparin_NC_004663.1_cl29	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_774	939715	941520	+	SusD family	4	4	FALSE
+heparin	heparin_NC_004663.1_cl29	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_775	941594	943042	+	Sulfatase	4	4	FALSE
+heparin	heparin_NC_004663.1_cl32	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_839	1009677	1012403	-	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl32	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_842	1013590	1014978	+	Major Facilitator Superfamily	2	2	FALSE
+heparin	heparin_NC_004663.1_cl34	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_886	1063214	1065088	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl34	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_887	1065133	1068345	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl37	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_990	1169220	1173209	+	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl37	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_992	1173791	1175689	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl42	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1056	1283613	1285883	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl42	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_1057	1285897	1289205	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl43	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1059	1291332	1293545	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl43	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_1060	1293560	1296868	-	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl5	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_145	139982	143212	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl5	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_146	143223	144962	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl51	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1150	1403968	1405584	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl51	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1151	1405597	1408293	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl56	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_1297	1568994	1572113	+	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl56	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_1298	1572150	1572950	-	Response regulator receiver domain	2	1	FALSE
+heparin	heparin_NC_004663.1_cl57	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_1311	1587227	1588543	+	Major Facilitator Superfamily	2	2	FALSE
+heparin	heparin_NC_004663.1_cl57	TonB_plug	Plug	7	NC_004663.1	NC_004663.1_1314	1590525	1593857	+	TonB-dependent Receptor Plug Domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl6	GH88	Glyco_hydro_88	5	NC_004663.1	NC_004663.1_151	149679	150899	+	Glycosyl Hydrolase Family 88	2	2	FALSE
+heparin	heparin_NC_004663.1_cl6	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_156	153863	156241	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl62	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_1475	1768127	1769335	+	Major Facilitator Superfamily	3	3	FALSE
+heparin	heparin_NC_004663.1_cl62	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1476	1769414	1770895	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl62	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1477	1770909	1774037	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl69	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1590	1916828	1920118	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl69	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1591	1920158	1921462	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl72	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1660	1989363	1992815	+	TonB dependent receptor	4	3	FALSE
+heparin	heparin_NC_004663.1_cl72	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1661	1992829	1994685	+	SusD family	4	3	FALSE
+heparin	heparin_NC_004663.1_cl72	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_1663	1996551	1998053	+	Sulfatase	4	3	FALSE
+heparin	heparin_NC_004663.1_cl72	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_1665	1999530	2001077	-	Sulfatase	4	3	FALSE
+heparin	heparin_NC_004663.1_cl73	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_1669	2008592	2010175	-	Sulfatase	3	3	FALSE
+heparin	heparin_NC_004663.1_cl73	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1671	2012204	2014021	-	SusD family	3	3	FALSE
+heparin	heparin_NC_004663.1_cl73	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1672	2014035	2017394	-	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl74	HTCS	Response_reg	9	NC_004663.1	NC_004663.1_1676	2021666	2025631	+	Response regulator receiver domain	2	2	FALSE
+heparin	heparin_NC_004663.1_cl74	sulfatase	Sulfatase	4	NC_004663.1	NC_004663.1_1677	2025669	2027198	+	Sulfatase	2	2	FALSE
+heparin	heparin_NC_004663.1_cl76	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1725	2073899	2075854	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl76	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1726	2075866	2079060	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl8	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_197	200124	203564	+	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl8	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_198	203588	204979	+	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl80	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1807	2177962	2179674	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl80	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1808	2179702	2182815	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl86	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_1922	2355408	2357366	-	SusD family	2	2	FALSE
+heparin	heparin_NC_004663.1_cl86	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_1923	2357378	2360737	-	TonB dependent receptor	2	2	FALSE
+heparin	heparin_NC_004663.1_cl97	galactose_transporter	MFS_1	2	NC_004663.1	NC_004663.1_2162	2643912	2645072	+	Major Facilitator Superfamily	3	3	FALSE
+heparin	heparin_NC_004663.1_cl97	TonB	TonB_dep_Rec	8	NC_004663.1	NC_004663.1_2163	2645282	2648461	+	TonB dependent receptor	3	3	FALSE
+heparin	heparin_NC_004663.1_cl97	SusD_RagB	SusD_RagB	6	NC_004663.1	NC_004663.1_2164	2648469	2650397	+	SusD family	3	3	FALSE
